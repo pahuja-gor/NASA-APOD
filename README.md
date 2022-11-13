@@ -1,6 +1,6 @@
 <div align="center"><h1>NASA-APOD</h1></div>
   
-A fun program that displays NASA's Astronomy Picture of the Day
+<div align="center">A fun program that displays NASA's Astronomy Picture of the Day</div>
 
 ![](https://apod.nasa.gov/apod/image/2211/StanHondaTLE-ISS1108.jpg)
 
