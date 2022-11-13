@@ -2,7 +2,7 @@ name: nasa-apod-automation
 
 on:
   schedule:
-    - cron: '0 11 * * *' # runs at 11:00 UTC/6:00 AM EST everyday --> Change to 5 PM UTC = 12 AM EST
+    - cron: '0 9 * * *' # runs at 9:00 UTC/4:00 AM EST everyday --> Change to 5 PM UTC = 12 AM EST
 
 jobs:
   build:
