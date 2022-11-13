@@ -11,10 +11,10 @@ caption = soup.findAll('center')[1].find('b').text.strip()
 
 readme_data = open('README.md', 'r').readlines()
 
-original_url = readme_data[3][readme_data[3].find('(') + 1 : readme_data[3].find(')')]
-original_caption = readme_data[6][readme_data[6].find('<b>') + 3 : readme_data[6].find('</b>')]
+original_url = readme_data[12][readme_data[12].find('(') + 1 : readme_data[12].find(')')]
+original_caption = readme_data[15][readme_data[15].find('<b>') + 3 : readme_data[15].find('</b>')]
 
-readme_data[6] = readme_data[6].replace(original_caption, caption)
-readme_data[3] = readme_data[3].replace(original_url, pic_of_the_day)
+readme_data[15] = readme_data[15].replace(original_caption, caption)
+readme_data[12] = readme_data[12].replace(original_url, pic_of_the_day)
 
 open('README.md', 'w').writelines(readme_data)
