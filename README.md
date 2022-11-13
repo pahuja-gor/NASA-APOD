@@ -5,8 +5,10 @@
 </div>
   
 <div align="center">
-  A fun program that displays NASA's Astronomy Picture of the Day<br>
+  A fun program that displays NASA's Astronomy Picture of the Day
 </div>
+
+<br>
 
 ![](https://apod.nasa.gov/apod/image/2211/StanHondaTLE-ISS1108.jpg)
 
