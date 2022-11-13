@@ -1,4 +1,4 @@
-<div align="center">NASA-APOD<\div>
+<div align="center">NASA-APOD</div>
   
 A fun program that displays NASA's Astronomy Picture of the Day
 
