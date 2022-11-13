@@ -1,4 +1,4 @@
-# NASA-APOD
+<div align="center">NASA-APOD<\div>
 A fun program that displays NASA's Astronomy Picture of the Day
 
 ![](https://apod.nasa.gov/apod/image/2211/StanHondaTLE-ISS1108.jpg)
