@@ -10,7 +10,7 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2211/GenesisImpact_nasa_960.jpg)
+![](https://apod.nasa.gov)
 
 <p align = "center">
   <b>Flying Saucer Crash Lands in Utah Desert</b>
