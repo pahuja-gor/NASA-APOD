@@ -1,8 +1,9 @@
 name: nasa-apod-automation
 
 on:
+  workflow_run:
   schedule:
-    - cron: '15 9 * * *' # runs at 9:00 UTC/4:00 AM EST everyday --> Change to 5 PM UTC = 12 AM EST
+    - cron: '0 3 * * *' # runs at 9:00 UTC/4:00 AM EST everyday --> Change to 5 PM UTC = 12 AM EST
 
 jobs:
   build:
