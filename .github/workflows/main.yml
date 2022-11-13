@@ -1,0 +1,40 @@
+name: nasa-apod-automation
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 3 * * *' # runs at 9:00 UTC/4:00 AM EST everyday --> Change to 5 PM UTC = 12 AM EST
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: checkout repo content
+        uses: actions/checkout@v2 # checkout the repository content to github runner
+
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          check-latest: true # install the latest python version
+          
+      - name: install python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          
+      - name: execute py script # run apod.py to get the latest data
+        run: python apod.py
+          
+      - name: commit files
+        run: |
+          git add -A
+          git config --local user.email "action@github.com"
+          git config --local user.name "NASA APOD Workflow"
+          git commit -m "Updating NASA Astronomy Picture of the Day"
+          
+      - name: push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main  
