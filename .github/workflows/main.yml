@@ -29,6 +29,8 @@ jobs:
       - name: commit files
         run: |
           git add -A
+          git config --local user.email "action@github.com"
+          git config --local user.name "NASA APOD Workflow"
           git commit -m "Updating NASA Astronomy Picture of the Day"
           
       - name: push changes
