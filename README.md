@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2211/GenesisImpact_nasa_960.jpg)
+![](https://apod.nasa.gov/apod/image/2211/Wizard_Popa_1975.jpg)
 
 <p align = "center">
-  <b>Flying Saucer Crash Lands in Utah Desert</b>
+  <b>NGC 7380: The Wizard Nebula</b>
 </p>
