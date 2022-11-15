@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2211/Wizard_Popa_1975.jpg)
+![](https://apod.nasa.gov/apod/image/2211/WolfsCave_Lacroce_3053.jpg)
 
 <p align = "center">
-  <b>NGC 7380: The Wizard Nebula</b>
+  <b>Wolf's Cave Nebula</b>
 </p>
