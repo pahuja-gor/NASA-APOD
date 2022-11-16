@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2211/WolfsCave_Lacroce_3053.jpg)
+![](https://apod.nasa.gov/apod/image/2211/NGC-1097-LRGB_Ha-rev-12-2022.jpg)
 
 <p align = "center">
-  <b>Wolf's Cave Nebula</b>
+  <b>In the Arms of NGC 1097</b>
 </p>
