@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2211/NGC-1097-LRGB_Ha-rev-12-2022.jpg)
+![](https://apod.nasa.gov/apod/image/2211/EarthArtemis1.jpg)
 
 <p align = "center">
-  <b>In the Arms of NGC 1097</b>
+  <b>Planet Earth from Orion</b>
 </p>
