@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2211/EarthArtemis1.jpg)
+![](https://apod.nasa.gov/apod/image/2211/weic2219a.jpg)
 
 <p align = "center">
-  <b>Planet Earth from Orion</b>
+  <b>The Protostar within L1527</b>
 </p>
