@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2211/DSC_3971-11-16-2022-Low-Res.jpg)
+![](https://apod.nasa.gov/apod/image/2211/rippledsky_dai_960.jpg)
 
 <p align = "center">
-  <b>Artemis 1 Moonshot</b>
+  <b>Airglow Ripples over Tibet</b>
 </p>
