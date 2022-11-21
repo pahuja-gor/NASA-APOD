@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2211/rippledsky_dai_960.jpg)
+![](https://apod.nasa.gov/apod/image/2211/Butterfly_HubbleOstling_3656.jpg)
 
 <p align = "center">
-  <b>Airglow Ripples over Tibet</b>
+  <b>The Butterfly Nebula from Hubble</b>
 </p>
