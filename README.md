@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2211/Butterfly_HubbleOstling_3656.jpg)
+![](https://apod.nasa.gov/apod/image/2211/DoubleCluster_Lease_3756.jpg)
 
 <p align = "center">
-  <b>The Butterfly Nebula from Hubble</b>
+  <b>A Double Star Cluster in Perseus</b>
 </p>
