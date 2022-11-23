@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2211/DoubleCluster_Lease_3756.jpg)
+![](https://apod.nasa.gov/apod/image/2211/earthset-snap00.png)
 
 <p align = "center">
-  <b>A Double Star Cluster in Perseus</b>
+  <b>Earthset from Orion</b>
 </p>
