@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2211/earthset-snap00.png)
+![](https://apod.nasa.gov/apod/image/2211/LDN1251v7social.png)
 
 <p align = "center">
-  <b>Earthset from Orion</b>
+  <b>Lynds Dark Nebula 1251</b>
 </p>
