@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2211/Leonids2022_Hongyang_2880.jpg)
+![](https://apod.nasa.gov/apod/image/2211/Gum_Lima_1365.jpg)
 
 <p align = "center">
-  <b>Leonid Meteors Through Orion</b>
+  <b>The Gum Nebula Supernova Remnant</b>
 </p>
