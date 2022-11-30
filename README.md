@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2211/Gum_Lima_1365.jpg)
+![](https://apod.nasa.gov/apod/image/2211/Cave_Copyright_APOD.png)
 
 <p align = "center">
-  <b>The Gum Nebula Supernova Remnant</b>
+  <b>The Light, the Dark, and the Dusty</b>
 </p>
