@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2212/art001e000672-orig.jpg)
+![](https://apod.nasa.gov/apod/image/2212/potm2211a.jpg)
 
 <p align = "center">
-  <b>Artemis 1: Flight Day 13</b>
+  <b>Merging Galaxy Pair IIZw096</b>
 </p>
