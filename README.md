@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2212/potm2211a.jpg)
+![](https://apod.nasa.gov/apod/image/2212/Mars-Stereo.png)
 
 <p align = "center">
-  <b>Merging Galaxy Pair IIZw096</b>
+  <b>Stereo Mars near Opposition</b>
 </p>
