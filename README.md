@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2212/Mars-Stereo.png)
+![](https://apod.nasa.gov/apod/image/2212/Pleiades_Estes_3000.jpg)
 
 <p align = "center">
-  <b>Stereo Mars near Opposition</b>
+  <b>Pleiades: The Seven Sisters Star Cluster</b>
 </p>
