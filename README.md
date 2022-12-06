@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2212/Pleiades_Estes_3000.jpg)
+![](https://apod.nasa.gov/apod/image/2212/M16Pillar_WebbOzsarac_1668.jpg)
 
 <p align = "center">
-  <b>Pleiades: The Seven Sisters Star Cluster</b>
+  <b>M16: A Star Forming Pillar from Webb</b>
 </p>
