@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2212/M16Pillar_WebbOzsarac_1668.jpg)
+![](https://apod.nasa.gov/apod/image/2212/NGC7293-TommasoStella2022WEB.jpg)
 
 <p align = "center">
-  <b>M16: A Star Forming Pillar from Webb</b>
+  <b>NGC 7293: The Helix Nebula</b>
 </p>
