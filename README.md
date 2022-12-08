@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2212/NGC7293-TommasoStella2022WEB.jpg)
+![](https://apod.nasa.gov/apod/image/2212/art001e002132.jpg)
 
 <p align = "center">
-  <b>NGC 7293: The Helix Nebula</b>
+  <b>Orion and the Ocean of Storms</b>
 </p>
