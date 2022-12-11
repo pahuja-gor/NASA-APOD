@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2212/22466-22467anaVantuyne.jpg)
+![](https://apod.nasa.gov/apod/image/2212/iotruecolor_galileo_2796.jpg)
 
 <p align = "center">
-  <b>America and the Sea of Serenity</b>
+  <b>Io in True Color</b>
 </p>
