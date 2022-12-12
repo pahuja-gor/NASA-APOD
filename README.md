@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2212/iotruecolor_galileo_2796.jpg)
+![](https://apod.nasa.gov/apod/image/2212/IC1396_Miller_2370.jpg)
 
 <p align = "center">
-  <b>Io in True Color</b>
+  <b>An Unusual Globule in IC 1396</b>
 </p>
