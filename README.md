@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2212/IC1396_Miller_2370.jpg)
+![](https://apod.nasa.gov/apod/image/2212/SkyArt_Cobianchi_2048.jpg)
 
 <p align = "center">
-  <b>An Unusual Globule in IC 1396</b>
+  <b>An Artful Sky over Lofoten Islands</b>
 </p>
