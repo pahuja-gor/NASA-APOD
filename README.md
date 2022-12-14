@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2212/SkyArt_Cobianchi_2048.jpg)
+![](https://apod.nasa.gov/apod/image/2212/AS17-137-20979.jpg)
 
 <p align = "center">
-  <b>An Artful Sky over Lofoten Islands</b>
+  <b>Lunar Dust and Duct Tape</b>
 </p>
