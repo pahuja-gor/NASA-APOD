@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2212/AS17-137-20979.jpg)
+![](https://apod.nasa.gov/apod/image/2212/MarsTrailsSMALL.jpg)
 
 <p align = "center">
-  <b>Lunar Dust and Duct Tape</b>
+  <b>Full Moon, Full Mars</b>
 </p>
