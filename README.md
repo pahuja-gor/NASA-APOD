@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2212/MarsTrailsSMALL.jpg)
+![](https://apod.nasa.gov/apod/image/2212/GeminidoverBluemoonvalley-2000.jpg)
 
 <p align = "center">
-  <b>Full Moon, Full Mars</b>
+  <b>The Geminid</b>
 </p>
