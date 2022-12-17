@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2212/GeminidoverBluemoonvalley-2000.jpg)
+![](https://apod.nasa.gov/apod/image/2212/a17anaglyph_vanMeijgaarden_f.jpg)
 
 <p align = "center">
-  <b>The Geminid</b>
+  <b>Apollo 17 VIP Site Anaglyph</b>
 </p>
