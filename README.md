@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2212/a17anaglyph_vanMeijgaarden_f.jpg)
+![](https://apod.nasa.gov/apod/image/2212/25BrightestStars_Jittasaiyapan_1500.jpg)
 
 <p align = "center">
-  <b>Apollo 17 VIP Site Anaglyph</b>
+  <b>25 Brightest Stars in the Night Sky</b>
 </p>
