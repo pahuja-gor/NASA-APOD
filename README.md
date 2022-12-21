@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2212/Thor_Rochford_2404.jpg)
+![](https://apod.nasa.gov/apod/image/2212/GS_20221217_Solhalo_Pan_v3.jpg)
 
 <p align = "center">
-  <b>Thor's Helmet</b>
+  <b>Sun Halo at Sixty-three Degrees North</b>
 </p>
