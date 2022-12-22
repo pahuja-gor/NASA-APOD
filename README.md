@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2212/GS_20221217_Solhalo_Pan_v3.jpg)
+![](https://apod.nasa.gov/apod/image/2212/NGC1365-CDK24-CDK17.jpg)
 
 <p align = "center">
-  <b>Sun Halo at Sixty-three Degrees North</b>
+  <b>NGC 1365: Majestic Island Universe</b>
 </p>
