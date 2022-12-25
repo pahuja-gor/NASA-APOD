@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2212/c2022E3_ZTF_Bartlett.png)
+![](https://apod.nasa.gov/apod/image/2212/J7A6402-Edit-copy-sharpened.jpg)
 
 <p align = "center">
-  <b>Comet 2022 E3 (ZTF)</b>
+  <b>Geminids and the Mittens</b>
 </p>
