@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2212/J7A6402-Edit-copy-sharpened.jpg)
+![](https://apod.nasa.gov/apod/image/2212/DragonsEgg_Croman_4231.jpg)
 
 <p align = "center">
-  <b>Geminids and the Mittens</b>
+  <b>NGC 6164: Dragon's Egg Nebula and Halo</b>
 </p>
