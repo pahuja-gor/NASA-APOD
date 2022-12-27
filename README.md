@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2212/DragonsEgg_Croman_4231.jpg)
+![](https://apod.nasa.gov/apod/image/2212/FullCircleRainbow_Moesch_4500.jpg)
 
 <p align = "center">
-  <b>NGC 6164: Dragon's Egg Nebula and Halo</b>
+  <b>A Full Circle Rainbow over Norway</b>
 </p>
