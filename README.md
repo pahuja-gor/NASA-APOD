@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2212/M88_2022weebly.jpg)
+![](https://apod.nasa.gov/apod/image/2212/B33LRGB_fb.png)
 
 <p align = "center">
-  <b>Messier 88</b>
+  <b>Horsehead and Flame</b>
 </p>
