@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2212/B33LRGB_fb.png)
+![](https://apod.nasa.gov/apod/image/2212/mars_clusters.jpg)
 
 <p align = "center">
-  <b>Horsehead and Flame</b>
+  <b>Mars and the Star Clusters</b>
 </p>
