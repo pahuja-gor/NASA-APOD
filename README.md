@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2212/mars_clusters.jpg)
+![](https://apod.nasa.gov/apod/image/2212/Makemakemoon100mile2000px.jpg)
 
 <p align = "center">
-  <b>Mars and the Star Clusters</b>
+  <b>Moon over Makemake</b>
 </p>
