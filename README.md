@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2212/Makemakemoon100mile2000px.jpg)
+![](https://apod.nasa.gov/apod/image/2301/PaleBlueDotOrig_Voyager1_960.jpg)
 
 <p align = "center">
-  <b>Moon over Makemake</b>
+  <b>The Largest Rock in our Solar System</b>
 </p>
