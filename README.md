@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2301/PaleBlueDotOrig_Voyager1_960.jpg)
+![](https://apod.nasa.gov/apod/image/2301/AllPlanets_Tezel_1680_annotated.jpg)
 
 <p align = "center">
-  <b>The Largest Rock in our Solar System</b>
+  <b>After Sunset Planet Parade</b>
 </p>
