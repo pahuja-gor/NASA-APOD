@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2301/AllPlanets_Tezel_1680_annotated.jpg)
+![](https://apod.nasa.gov/apod/image/2301/KembleCascade_Lease_3668.jpg)
 
 <p align = "center">
-  <b>After Sunset Planet Parade</b>
+  <b>Kemble’s Cascade of Stars</b>
 </p>
