@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2301/KembleCascade_Lease_3668.jpg)
+![](https://apod.nasa.gov/apod/image/2301/cg4_selby_5430.jpg)
 
 <p align = "center">
-  <b>Kemble’s Cascade of Stars</b>
+  <b>CG4: The Globule and the Galaxy</b>
 </p>
