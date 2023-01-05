@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2301/cg4_selby_5430.jpg)
+![](https://apod.nasa.gov/apod/image/2301/M_45_Plejarden_Stefan_Thrun_klein4096.jpg)
 
 <p align = "center">
-  <b>CG4: The Globule and the Galaxy</b>
+  <b>Messier 45: The Daughters of Atlas and Pleione</b>
 </p>
