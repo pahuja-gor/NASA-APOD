@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2301/Nucleosynthesis2_WikipediaCmglee_2000.jpg)
+![](https://apod.nasa.gov/apod/image/2301/CometZtf_Hernandez_1395.jpg)
 
 <p align = "center">
-  <b>Where Your Elements Came From</b>
+  <b>Tails of Comet ZTF</b>
 </p>
