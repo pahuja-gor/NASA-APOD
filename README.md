@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2301/CometZtf_Hernandez_1395.jpg)
+![](https://apod.nasa.gov/apod/image/2301/ConeNebula_Dieterich_1370.jpg)
 
 <p align = "center">
-  <b>Tails of Comet ZTF</b>
+  <b>NGC 2264: The Cone Nebula</b>
 </p>
