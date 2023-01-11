@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2301/ConeNebula_Dieterich_1370.jpg)
+![](https://apod.nasa.gov/apod/image/2301/RockyArchAurora_Pellegrini_1330.jpg)
 
 <p align = "center">
-  <b>NGC 2264: The Cone Nebula</b>
+  <b>Spiral Aurora over Iceland</b>
 </p>
