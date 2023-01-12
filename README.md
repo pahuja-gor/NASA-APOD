@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2301/RockyArchAurora_Pellegrini_1330.jpg)
+![](https://apod.nasa.gov/apod/image/2301/ic348-ngc1333.jpg)
 
 <p align = "center">
-  <b>Spiral Aurora over Iceland</b>
+  <b>Stardust in Perseus</b>
 </p>
