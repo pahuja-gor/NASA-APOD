@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2301/ic348-ngc1333.jpg)
+![](https://apod.nasa.gov/apod/image/2301/jwst-ngc346.png)
 
 <p align = "center">
-  <b>Stardust in Perseus</b>
+  <b>Young Star Cluster NGC 346</b>
 </p>
