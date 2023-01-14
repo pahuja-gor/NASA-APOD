@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2301/jwst-ngc346.png)
+![](https://apod.nasa.gov/apod/image/2301/Sol3Jan2023web.jpg)
 
 <p align = "center">
-  <b>Young Star Cluster NGC 346</b>
+  <b>Perihelion Sun 2023</b>
 </p>
