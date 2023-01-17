@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2301/MoonEnhanced_Mirza_4085.jpg)
+![](https://apod.nasa.gov/apod/image/2301/M31OiiiArc_Strottner_5000.jpg)
 
 <p align = "center">
-  <b>Moon Enhanced</b>
+  <b>Unexpected Clouds Toward the Andromeda Galaxy</b>
 </p>
