@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2301/M31OiiiArc_Strottner_5000.jpg)
+![](https://apod.nasa.gov/apod/image/2301/MacsClusterLens_Webb_2000.jpg)
 
 <p align = "center">
-  <b>Unexpected Clouds Toward the Andromeda Galaxy</b>
+  <b>MACS0647: Gravitational Lensing of the Early Universe by Webb</b>
 </p>
