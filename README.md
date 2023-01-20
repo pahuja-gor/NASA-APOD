@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2301/crtastro_0172_2194p.jpg)
+![](https://apod.nasa.gov/apod/image/2301/AUFSCHNAITER_Andreas_APOD_Bode_Cigare2048.jpg)
 
 <p align = "center">
-  <b>The Seagull Nebula</b>
+  <b>Galaxy Wars: M81 and M82</b>
 </p>
