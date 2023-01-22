@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2301/ZTF_salamanca.jpg)
+![](https://apod.nasa.gov/apod/image/2301/greencompany_rive_2916.jpg)
 
 <p align = "center">
-  <b>Naked-eye Comet ZTF</b>
+  <b>In Green Company: Aurora over Norway</b>
 </p>
