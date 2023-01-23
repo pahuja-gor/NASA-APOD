@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2301/greencompany_rive_2916.jpg)
+![](https://apod.nasa.gov/apod/image/2301/Arp274_HubbleOzsarac_2386.jpg)
 
 <p align = "center">
-  <b>In Green Company: Aurora over Norway</b>
+  <b>The Colliding Spiral Galaxies of Arp 274</b>
 </p>
