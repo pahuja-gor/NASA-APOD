@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2301/Arp274_HubbleOzsarac_2386.jpg)
+![](https://apod.nasa.gov/apod/image/2301/RockyRed7_DeepAI_960.jpg)
 
 <p align = "center">
-  <b>The Colliding Spiral Galaxies of Arp 274</b>
+  <b>LHS 475 b: Earth-Sized Exoplanet</b>
 </p>
