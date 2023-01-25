@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2301/RockyRed7_DeepAI_960.jpg)
+![](https://apod.nasa.gov/apod/image/2301/LDN1622_Carter_2888.jpg)
 
 <p align = "center">
-  <b>LHS 475 b: Earth-Sized Exoplanet</b>
+  <b>LDN 1622: The Boogeyman Nebula</b>
 </p>
