@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2301/LDN1622_Carter_2888.jpg)
+![](https://apod.nasa.gov/apod/image/2301/ngc1275_heic0817a.jpg)
 
 <p align = "center">
-  <b>LDN 1622: The Boogeyman Nebula</b>
+  <b>Active Galaxy NGC 1275</b>
 </p>
