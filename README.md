@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2301/ngc1275_heic0817a.jpg)
+![](https://apod.nasa.gov/apod/image/2301/C2022E3ZTF_2023_01_23_054036PST_DEBartlett.jpg)
 
 <p align = "center">
-  <b>Active Galaxy NGC 1275</b>
+  <b>Comet ZTF: Orbital Plane Crossing</b>
 </p>
