@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2301/C2022E3ZTF_2023_01_23_054036PST_DEBartlett.jpg)
+![](https://apod.nasa.gov/apod/image/2301/C2022E3ZTFMountEtna.jpg)
 
 <p align = "center">
-  <b>Comet ZTF: Orbital Plane Crossing</b>
+  <b>Comet ZTF over Mount Etna</b>
 </p>
