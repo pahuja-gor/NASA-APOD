@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2301/C2022E3ZTFMountEtna.jpg)
+![](https://apod.nasa.gov/apod/image/2301/barnard68v2_vlt_4000.jpg)
 
 <p align = "center">
-  <b>Comet ZTF over Mount Etna</b>
+  <b>Barnard 68: Dark Molecular Cloud</b>
 </p>
