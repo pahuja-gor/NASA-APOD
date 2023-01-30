@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2301/barnard68v2_vlt_4000.jpg)
+![](https://apod.nasa.gov/apod/image/2301/ngc6355_hubble_3769.jpg)
 
 <p align = "center">
-  <b>Barnard 68: Dark Molecular Cloud</b>
+  <b>Globular Star Cluster NGC 6355 from Hubble</b>
 </p>
