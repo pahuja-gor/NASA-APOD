@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2301/ngc6355_hubble_3769.jpg)
+![](https://apod.nasa.gov/apod/image/2301/TripleCometZTF_Caldera_3574.jpg)
 
 <p align = "center">
-  <b>Globular Star Cluster NGC 6355 from Hubble</b>
+  <b>A Triple View of Comet ZTF</b>
 </p>
