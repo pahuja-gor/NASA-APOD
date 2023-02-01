@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2301/TripleCometZTF_Caldera_3574.jpg)
+![](https://apod.nasa.gov/apod/image/2302/Trappist1h_Carroll_1238.jpg)
 
 <p align = "center">
-  <b>A Triple View of Comet ZTF</b>
+  <b>The Seventh World of Trappist-1</b>
 </p>
