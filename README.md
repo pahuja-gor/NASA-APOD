@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2302/Trappist1h_Carroll_1238.jpg)
+![](https://apod.nasa.gov/apod/image/2302/NGC1975RunningMan.jpg)
 
 <p align = "center">
-  <b>The Seventh World of Trappist-1</b>
+  <b>Reflections on the 1970s</b>
 </p>
