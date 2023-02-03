@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2302/NGC1975RunningMan.jpg)
+![](https://apod.nasa.gov/apod/image/2302/C2022E3(ZTF)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Reflections on the 1970s</b>
+  <b>Polaris and the Trail of Comet ZTF</b>
 </p>
