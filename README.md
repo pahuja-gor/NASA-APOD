@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2302/Rosette_Insley_3424.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2302/ZtfDippersB_Horalek_960_annotated.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>In the Heart of the Rosette Nebula</b>
+  <b>A Comet and Two Dippers</b>
 </p>
