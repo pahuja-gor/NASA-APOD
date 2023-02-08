@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2302/ZtfDippersB_Horalek_960_annotated.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2302/Rcw58_Selby_4326.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>A Comet and Two Dippers</b>
+  <b>Stellar Wind-Shaped Nebula RCW 58</b>
 </p>
