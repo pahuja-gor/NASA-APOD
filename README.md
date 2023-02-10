@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2302/PearlCloudDennis7.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2302/C2022E3ZTFmeetsC2022U2Atlasbeschriftet.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Nacreous Clouds over Lapland</b>
+  <b>ZTF meets ATLAS</b>
 </p>
