@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2302/C2022E3ZTFmeetsC2022U2Atlasbeschriftet.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2302/magellanic.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>ZTF meets ATLAS</b>
+  <b>Magellanic Clouds over Chile</b>
 </p>
