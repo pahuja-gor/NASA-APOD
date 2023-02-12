@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2302/magellanic.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2302/mammatus_olson_1024.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Magellanic Clouds over Chile</b>
+  <b>Mammatus Clouds over Nebraska</b>
 </p>
