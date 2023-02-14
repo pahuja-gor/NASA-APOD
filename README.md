@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2302/CometZtfMars_Lioce_4229.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2302/HeartSoul_deHaro_1977.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Comet ZTF and Mars</b>
+  <b>The Heart and Soul Nebulas</b>
 </p>
