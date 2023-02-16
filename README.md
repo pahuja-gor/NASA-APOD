@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2302/AirglowFrance_Looten_2048.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2302/ABELL1060_LRGB_NASA.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Airglow Sky over France</b>
+  <b>The Hydra Cluster of Galaxies</b>
 </p>
