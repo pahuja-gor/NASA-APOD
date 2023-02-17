@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2302/ABELL1060_LRGB_NASA.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2302/gijsDSC_1917(2x3)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>The Hydra Cluster of Galaxies</b>
+  <b>2023 CX1 Meteor Flash</b>
 </p>
