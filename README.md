@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2302/gijsDSC_1917(2x3)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2302/JWSTMIRI_ngc1365.png)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>2023 CX1 Meteor Flash</b>
+  <b>Barred Spiral Galaxy NGC 1365 from Webb</b>
 </p>
