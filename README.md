@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2302/JWSTMIRI_ngc1365.png)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2302/Pleiades_WiseAntonucci_5000.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Barred Spiral Galaxy NGC 1365 from Webb</b>
+  <b>Seven Dusty Sisters in Infrared</b>
 </p>
