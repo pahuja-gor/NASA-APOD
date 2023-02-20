@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2302/Pleiades_WiseAntonucci_5000.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2302/Ngc1850_HubbleOzsarac_2048.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Seven Dusty Sisters in Infrared</b>
+  <b>NGC 1850: Not Found in the Milky Way</b>
 </p>
