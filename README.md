@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2302/CometZtfYosemite_Mostofi_1639.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2302/SunHalphaC_Ergun_2065.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Comet ZTF  over Yosemite Falls</b>
+  <b>Our Increasingly Active Sun</b>
 </p>
