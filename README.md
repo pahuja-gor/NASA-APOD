@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2302/SunHalphaC_Ergun_2065.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2302/NGC772-L2bh-RGB-19-8aT-cC.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Our Increasingly Active Sun</b>
+  <b>Arp 78: Peculiar Galaxy in Aries</b>
 </p>
