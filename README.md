@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2302/NGC772-L2bh-RGB-19-8aT-cC.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2302/jonesemberson1.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Arp 78: Peculiar Galaxy in Aries</b>
+  <b>Jones-Emberson 1</b>
 </p>
