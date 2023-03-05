@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2303/PSX_20230302_200358.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2303/VenusJupiterSky_Tumino_2048.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>10 Days of Venus and Jupiter</b>
+  <b>Jupiter and Venus over Italy</b>
 </p>
