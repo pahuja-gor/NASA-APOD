@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2303/jupiterpersonvenus_nikodem_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2303/LmcDeepWide_Beletsky_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Jupiter and Venus from Earth</b>
+  <b>Deep Field: The Large Magellanic Cloud</b>
 </p>
