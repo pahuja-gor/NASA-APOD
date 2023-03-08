@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2303/LmcDeepWide_Beletsky_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2303/WorldSkyBrightness_JpssLorenz_5848.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Deep Field: The Large Magellanic Cloud</b>
+  <b>Artificial Night Sky Brightness</b>
 </p>
