@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2303/NGC5139_Omega_Centauri_3700px.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2303/medusaNeb.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Millions of Stars in Omega Centauri</b>
+  <b>The Medusa Nebula</b>
 </p>
