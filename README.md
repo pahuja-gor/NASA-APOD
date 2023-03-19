@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2303/WR124_Webb.png)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2303/MayanMilkyWay_Fernandez_1600.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Wolf-Rayet 124</b>
+  <b>Equinox at the Pyramid of the Feathered Serpent</b>
 </p>
