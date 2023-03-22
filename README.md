@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2303/TaurusDust_Chander_4096.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2303/M31_Alharbi_4822.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Dark Nebulae and Star Formation in Taurus</b>
+  <b>M31: The Andromeda Galaxy</b>
 </p>
