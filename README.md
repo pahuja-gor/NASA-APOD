@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2303/M31_Alharbi_4822.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2303/NGC2841_Astrobin.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>M31: The Andromeda Galaxy</b>
+  <b>Spiral Galaxy NGC 2841</b>
 </p>
