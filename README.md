@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2304/NGC2442-NicolasROLLAND_signatur.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2304/Ring_HubbleSchmidt_1548.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>NGC 2442: Galaxy in Volans</b>
+  <b>M57: The Ring Nebula from Hubble</b>
 </p>
