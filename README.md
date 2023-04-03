@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2304/Ring_HubbleSchmidt_1548.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2304/GalCenRadioArc_MeerKat_1080.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>M57: The Ring Nebula from Hubble</b>
+  <b>The Galactic Center Radio Arc</b>
 </p>
