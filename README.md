@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2304/OlympusMons_MarsExpress_6000.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2304/RubinsGalaxy_hst2000.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Olympus Mons: Largest Volcano in the Solar System</b>
+  <b>Rubin's Galaxy</b>
 </p>
