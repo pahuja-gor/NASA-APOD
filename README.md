@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2304/egg_hst_0.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2304/ChickenRun_Stern_9006.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>The Egg Nebula in Polarized Light</b>
+  <b>IC 2944: The Running Chicken Nebula</b>
 </p>
