@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2304/ChickenRun_Stern_9006.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2304/PolarisIfn_Zayaz_4000.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>IC 2944: The Running Chicken Nebula</b>
+  <b>North Star: Polaris and Surrounding Dust</b>
 </p>
