@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2304/PolarisIfn_Zayaz_4000.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2304/Trottier_M31SW_APOD_Re.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>North Star: Polaris and Surrounding Dust</b>
+  <b>NGC 206 and the Star Clouds of Andromeda</b>
 </p>
