@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2304/Trottier_M31SW_APOD_Re.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2304/hubble_ngc2419_potw1908a.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>NGC 206 and the Star Clouds of Andromeda</b>
+  <b>NGC 2419: Intergalactic Wanderer</b>
 </p>
