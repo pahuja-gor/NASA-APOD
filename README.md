@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2304/Elves_Binotto_2000.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2304/EclipseMap_nasa_5400.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>ELVES Lightning over Italy</b>
+  <b>Map of Total Solar Eclipse Path in 2024 April</b>
 </p>
