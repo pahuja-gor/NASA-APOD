@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2304/EclipseMap_nasa_5400.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2304/AuroraSnow_Casado_3000.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Map of Total Solar Eclipse Path in 2024 April</b>
+  <b>Auroral Storm over Lapland</b>
 </p>
