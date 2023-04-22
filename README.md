@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2304/PSX_20230420_140324.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2304/NGC1333HST33rd.png)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Solar Eclipse from Western Australia</b>
+  <b>NGC 1333: Stellar Nursery in Perseus</b>
 </p>
