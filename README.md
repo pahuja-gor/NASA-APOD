@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2304/MoonArc_zanarello_1365.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2304/SuperBIT_tarantula.png)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>The Moon through the Arc de Triomphe</b>
+  <b>The Tarantula Nebula from SuperBIT</b>
 </p>
