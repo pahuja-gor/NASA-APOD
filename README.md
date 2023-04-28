@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2304/SuperBIT_tarantula.png)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2304/AlphaCamelopardis_s3100.png)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>The Tarantula Nebula from SuperBIT</b>
+  <b>Runaway Star Alpha Camelopardalis</b>
 </p>
