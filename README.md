@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2304/AlphaCamelopardis_s3100.png)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2304/TSE2023-Comp48-2a.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Runaway Star Alpha Camelopardalis</b>
+  <b>Solar Eclipse from a Ship</b>
 </p>
