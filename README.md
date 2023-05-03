@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2305/FlatMars_CuriosityThompson_2713.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2305/NGC5128_Lorenzi_3000.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Flat Rock Hills on Mars</b>
+  <b>Centaurus A: A Peculiar Island of Stars</b>
 </p>
