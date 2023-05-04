@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2305/NGC5128_Lorenzi_3000.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2305/pia23122c-16.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Centaurus A: A Peculiar Island of Stars</b>
+  <b>The Galaxy, the Jet, and a Famous Black Hole</b>
 </p>
