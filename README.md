@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2305/DesertSky_Abdelwahab_2048.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2305/STSCI_FomalhautDisk.png)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Milky Way over Egyptian Desert</b>
+  <b>Fomalhaut's Dusty Debris Disk</b>
 </p>
