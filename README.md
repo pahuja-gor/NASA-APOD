@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2305/BigCorona2023_Wittich_2371.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2305/SunSpotBridge_Johnston_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Total Eclipse: The Big Corona</b>
+  <b>Sunspot with Light Bridge</b>
 </p>
