@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2305/SunSpotBridge_Johnston_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2305/WR134SHO.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Sunspot with Light Bridge</b>
+  <b>WR 134 Ring Nebula</b>
 </p>
