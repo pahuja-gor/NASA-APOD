@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2305/M101Sn_Stocks_after_2560.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2305/JupiterSwirls_JunoGill_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Supernova Discovered in Nearby Spiral Galaxy M101</b>
+  <b>Jupiter's Swirls from Juno</b>
 </p>
