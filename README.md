@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2305/MoonJupiter_Whitacre_1920.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2305/NGC6543_wide.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Observatory Aligned with Moon Occulting Jupiter</b>
+  <b>Cat's Eye Wide and Deep</b>
 </p>
