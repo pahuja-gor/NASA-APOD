@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2305/neptunetriton_voyager_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2305/IdaDactyl_galileo_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Crescent Neptune and Triton</b>
+  <b>Ida and Dactyl: Asteroid and Moon</b>
 </p>
