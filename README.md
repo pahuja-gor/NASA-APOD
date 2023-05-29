@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2305/IdaDactyl_galileo_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2305/SeaBlueSky_Horalek_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Ida and Dactyl: Asteroid and Moon</b>
+  <b>Milky Way over a Turquoise Wonderland</b>
 </p>
