@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2305/SeaBlueSky_Horalek_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2305/M27_Cosgrove_2717.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Milky Way over a Turquoise Wonderland</b>
+  <b>M27: The Dumbbell Nebula</b>
 </p>
