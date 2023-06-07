@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2306/Trifid_Pugh_2346.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2306/M94_Brennan_1565.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>In the Center of the Trifid Nebula</b>
+  <b>M94: A Double Ring Galaxy</b>
 </p>
