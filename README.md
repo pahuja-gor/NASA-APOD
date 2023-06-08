@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2306/M94_Brennan_1565.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2306/ic1396ASI294large.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>M94: A Double Ring Galaxy</b>
+  <b>Elephant's Trunk and Caravan</b>
 </p>
