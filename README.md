@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2306/ic1396ASI294large.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2306/abell2744_jwst.png)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Elephant's Trunk and Caravan</b>
+  <b>Pandora's Cluster of Galaxies</b>
 </p>
