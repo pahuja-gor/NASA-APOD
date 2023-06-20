@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2306/LagoonCenter_HubblePobes_3979.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2306/NanduMilkyWay_Bouvier_2048.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>The Busy Center of the Lagoon Nebula</b>
+  <b>The Ñandú in the Milky Way</b>
 </p>
