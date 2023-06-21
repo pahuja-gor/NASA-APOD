@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2306/NanduMilkyWay_Bouvier_2048.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2306/SunPath_Pace_960_annotated.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>The Ñandú in the Milky Way</b>
+  <b>Three Sun Paths</b>
 </p>
