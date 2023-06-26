@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2306/LightningCloud_JunoGill_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2306/BeltofEverest_Mukherjee_4000_annotated.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Lightning on Jupiter</b>
+  <b>The Belt of Venus over Mount Everest</b>
 </p>
