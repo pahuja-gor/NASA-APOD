@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2306/BeltofEverest_Mukherjee_4000_annotated.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2306/MavenMars2panel.png)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>The Belt of Venus over Mount Everest</b>
+  <b>MAVEN's Ultraviolet Mars</b>
 </p>
