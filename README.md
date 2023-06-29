@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2306/M24_2023grapod.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2306/Gwb_Nanograv_3000_annotated.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Messier 24: Sagittarius Star Cloud</b>
+  <b>A Message from the Gravitational Universe</b>
 </p>
