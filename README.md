@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2307/PSP_007769_9010_IRB_Stickney.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2307/EtaCarinae_HubbleSchmidt_1764.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Stickney Crater</b>
+  <b>Doomed Star Eta Carinae</b>
 </p>
