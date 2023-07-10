@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2307/EtaCarinae_HubbleSchmidt_1764.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2307/NGC6559_Block_1311.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Doomed Star Eta Carinae</b>
+  <b>Stars, Dust and Nebula in NGC 6559</b>
 </p>
