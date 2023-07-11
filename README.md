@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2307/NGC6559_Block_1311.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2307/SpottedSun_Sanli_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Stars, Dust and Nebula in NGC 6559</b>
+  <b>Sunspots on an Active Sun</b>
 </p>
