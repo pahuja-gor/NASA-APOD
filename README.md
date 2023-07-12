@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2307/SpottedSun_Sanli_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2307/Ngc1398_Hanson_2752.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Sunspots on an Active Sun</b>
+  <b>Rings and Bar of Spiral Galaxy NGC 1398</b>
 </p>
