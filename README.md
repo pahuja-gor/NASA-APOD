@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2307/MeteorMountain_Roemmelt_1371.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2307/CwLeo_Hubble_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Meteor and Milky Way over the Alps</b>
+  <b>Shells and Arcs around Star CW Leonis</b>
 </p>
