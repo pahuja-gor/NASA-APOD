@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2307/CwLeo_Hubble_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2307/MwLaPalma_Rosadzinski_2000.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Shells and Arcs around Star CW Leonis</b>
+  <b>Milky Way above La Palma Observatory</b>
 </p>
