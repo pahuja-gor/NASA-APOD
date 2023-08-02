@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2308/SunMonster_Wenz_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2308/M82_HubblePathak_8150.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Monster Solar Prominence</b>
+  <b>M82: Galaxy with a Supergalactic Wind</b>
 </p>
