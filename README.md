@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2308/GianniTumino_Moon_Rays_JPG_LOGO_4000pix.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2308/ngc1360_v2.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Moonrays of August</b>
+  <b>NGC 1360: The Robin's Egg Nebula</b>
 </p>
