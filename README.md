@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2308/ngc1360_v2.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2308/SN1006_Hubble_4940.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>NGC 1360: The Robin's Egg Nebula</b>
+  <b>SN 1006: A Supernova Ribbon from Hubble</b>
 </p>
