@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2308/SN1006_Hubble_4940.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2308/LDN935_Jones_1840.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>SN 1006: A Supernova Ribbon from Hubble</b>
+  <b>The Pelican Nebula in Gas, Dust, and Stars</b>
 </p>
