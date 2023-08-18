@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2308/ElephantTrunkBatSquidSeahorse.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2308/nh-northpolerotatedcontrast.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>A Cosmic Zoo in Cepheus</b>
+  <b>Northern Pluto</b>
 </p>
