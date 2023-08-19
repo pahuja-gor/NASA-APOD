@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2308/nh-northpolerotatedcontrast.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2308/NeptuneTriton_webb1059.png)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Northern Pluto</b>
+  <b>Ringed Ice Giant Neptune</b>
 </p>
