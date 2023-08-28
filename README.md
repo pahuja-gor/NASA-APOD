@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2308/cometmcnaught_druckmuller_1084.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2308/Pacman_Stocks_2560.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Three Galaxies and a Comet</b>
+  <b>Star Formation in the Pacman Nebula</b>
 </p>
