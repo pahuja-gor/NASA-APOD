@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2309/CrescentBubble_AlHarbi_5732.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2309/SuperBlueMoon_Saragozza_2000.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Cygnus: Bubble and Crescent</b>
+  <b>Blue Supermoon Beyond Syracuse</b>
 </p>
