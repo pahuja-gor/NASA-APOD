@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2309/SuperBlueMoon_Saragozza_2000.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2309/TheLargeMagellanicCloud.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Blue Supermoon Beyond Syracuse</b>
+  <b>The Large Cloud of Magellan</b>
 </p>
