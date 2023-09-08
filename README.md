@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2309/TheLargeMagellanicCloud.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2309/OmegaNebulaGrandMesaObservatory2023.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>The Large Cloud of Magellan</b>
+  <b>Star Factory Messier 17</b>
 </p>
