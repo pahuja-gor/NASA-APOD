@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2309/Nishimura_Kennett_4428.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2309/AnnularEclipse_Pinski_1522.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Comet Nishimura Grows</b>
+  <b>An Annular Solar Eclipse over New Mexico</b>
 </p>
