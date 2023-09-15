@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2309/LRGBHa23_n7331r.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2309/IMG_3603.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>NGC 7331 and Beyond</b>
+  <b>Venus, Moon, and the Smoking Mountain</b>
 </p>
