@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2309/4pm-analemma-nz.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2309/Arp142_HubbleChakrabarti_2627.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Afternoon Analemma</b>
+  <b>Arp 142: The Hummingbird Galaxy</b>
 </p>
