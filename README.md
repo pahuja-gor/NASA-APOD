@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2310/DesertEclipse_Daviron_2000.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2310/HiResSprites_Escurat_3000.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>A Desert Eclipse</b>
+  <b>Sprite Lightning in High Definition</b>
 </p>
