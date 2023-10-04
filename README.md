@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2310/Hourglass_HubblePathak_1080.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2310/WitchHead_Alharbi_3051.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>MyCn 18: The Engraved Hourglass Planetary Nebula</b>
+  <b>IC 2118: The Witch Head Nebula</b>
 </p>
