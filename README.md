@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2310/MoValleyEclipse.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2004/HubbleVarOrig_Carnegie_2880.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Ring of Fire over Monument Valley</b>
+  <b>Edwin Hubble Discovers the Universe</b>
 </p>
