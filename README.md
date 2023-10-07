@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2004/HubbleVarOrig_Carnegie_2880.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2310/M31_HubbleSpitzerGendler_2000.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Edwin Hubble Discovers the Universe</b>
+  <b>The Once and Future Stars of Andromeda</b>
 </p>
