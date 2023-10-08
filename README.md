@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2310/M31_HubbleSpitzerGendler_2000.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2310/PlaneEclipse_Slifer_1756.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>The Once and Future Stars of Andromeda</b>
+  <b>Plane, Clouds, Moon, Spots, Sun</b>
 </p>
