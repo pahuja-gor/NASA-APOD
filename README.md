@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2310/Ngc1097wSn_Miller_1008.gif)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2310/MuCephei_apod.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>NGC 1097: Spiral Galaxy with Supernova</b>
+  <b>Mu Cephei</b>
 </p>
