@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2310/EclipseTree_Wyre_3024.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2310/AnnularProposal_Zhang_3500.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>An Eclipse Tree</b>
+  <b>Eclipse Rings</b>
 </p>
