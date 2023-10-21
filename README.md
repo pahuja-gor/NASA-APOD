@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2310/C2023H2LemmonGalaxies.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2310/quartermoon2022date.jpeg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Galaxies and a Comet</b>
+  <b>Quarter Moons</b>
 </p>
