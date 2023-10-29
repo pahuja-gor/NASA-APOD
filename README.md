@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2310/IC63_GruntzBax.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2310/PartialLunarItaly_Mezzio_5524.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>The Ghosts of Gamma Cas</b>
+  <b>A Partial Lunar Eclipse</b>
 </p>
