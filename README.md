@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2310/PartialLunarItaly_Mezzio_5524.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2310/GhostNebula_Jarzyna_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>A Partial Lunar Eclipse</b>
+  <b>Reflections of the Ghost Nebula</b>
 </p>
