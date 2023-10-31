@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2310/GhostNebula_Jarzyna_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2310/WizardCenter_McInnis_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Reflections of the Ghost Nebula</b>
+  <b>Halloween and the Wizard Nebula</b>
 </p>
