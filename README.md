@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2310/WizardCenter_McInnis_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2311/UtahEclipse_Kiczenski_1480.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Halloween and the Wizard Nebula</b>
+  <b>Annular Solar Eclipse over Utah</b>
 </p>
