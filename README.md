@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2311/UtahEclipse_Kiczenski_1480.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2311/ClusterFornax.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Annular Solar Eclipse over Utah</b>
+  <b>The Fornax Cluster of Galaxies</b>
 </p>
