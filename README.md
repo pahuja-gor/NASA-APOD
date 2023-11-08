@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2311/RedAuroraItaly_Hofer_1200.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2311/Perseus_Euclid_4400.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Red Aurora over Italy</b>
+  <b>Perseus Galaxy Cluster from Euclid</b>
 </p>
