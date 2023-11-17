@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2311/Katarzyna20.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2311/lehtonen_dennisAuroraQeqertaq2.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Daytime Moon Meets Morning Star</b>
+  <b>Nightlights in Qeqertaq</b>
 </p>
