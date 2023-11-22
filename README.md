@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2311/FlemingsWisp_Gualco_2801.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2311/ic342asi294large.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Fleming's Triangular Wisp</b>
+  <b>IC 342: Hidden Galaxy in Camelopardalis</b>
 </p>
