@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2311/ic342asi294large.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2311/ngc1555wide4096.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>IC 342: Hidden Galaxy in Camelopardalis</b>
+  <b>Along the Taurus Molecular Cloud</b>
 </p>
