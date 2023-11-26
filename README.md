@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2311/Kirkjufell2023Nov9_2048.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2311/Jet67P_Rosetta_2048.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Little Planet Aurora</b>
+  <b>A Dust Jet from the Surface of Comet 67P</b>
 </p>
