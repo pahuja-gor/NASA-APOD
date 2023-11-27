@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2311/Jet67P_Rosetta_2048.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2311/EagleRay_Chander_3277.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>A Dust Jet from the Surface of Comet 67P</b>
+  <b>LBN 86: The Eagle Ray Nebula</b>
 </p>
