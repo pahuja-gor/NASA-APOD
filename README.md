@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2311/EagleRay_Chander_3277.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2311/Ganymede2_JunoGill_3445.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>LBN 86: The Eagle Ray Nebula</b>
+  <b>Ganymede from Juno</b>
 </p>
