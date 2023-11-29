@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2311/Ganymede2_JunoGill_3445.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2311/LowerLandspout_Hannon_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Ganymede from Juno</b>
+  <b>A Landspout Tornado over Kansas</b>
 </p>
