@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2312/_MG_2485-mod_APOD.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2312/StartrailsBeijingAncientObservatory-3.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Milky Way Rising</b>
+  <b>Startrails over Beijing Ancient Observatory</b>
 </p>
