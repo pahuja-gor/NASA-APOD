@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2312/BigDipperMt2_Cullen_1365.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2312/ArcticNight_Cobianchi_2048.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Big Dipper over Pyramid Mountain</b>
+  <b>Aurora and Milky Way over Norway</b>
 </p>
