@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2312/CasA_nircam_4096.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2312/OrionBetelgeuse_occultation.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Supernova Remnant Cassiopeia A</b>
+  <b>Betelgeuse Eclipsed</b>
 </p>
