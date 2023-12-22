@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2312/C2020_V2_ZTF_CHILESCOPE_DEBartlett.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2312/solsticesolargraphy.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Three Galaxies and a Comet</b>
+  <b>183 Days in the Sun</b>
 </p>
