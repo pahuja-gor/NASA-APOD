@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2312/solsticesolargraphy.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2312/DSCF6968-Enhanced-NR.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>183 Days in the Sun</b>
+  <b>A December Summer Night</b>
 </p>
