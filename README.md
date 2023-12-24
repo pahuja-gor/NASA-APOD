@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2312/DSCF6968-Enhanced-NR.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2312/ngc2440e_hst_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>A December Summer Night</b>
+  <b>NGC 2440: Cocoon of a New White Dwarf</b>
 </p>
