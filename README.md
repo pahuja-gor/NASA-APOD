@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2401/SarArcNz_McDonald_2048.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2401/ZetaOph_spitzer_4015.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>A SAR Arc from New Zealand</b>
+  <b>Zeta Oph: Runaway Star</b>
 </p>
