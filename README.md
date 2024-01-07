@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2401/Image964.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2401/CatsEye_HubblePohl_1278.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Trapezium: At the Heart of Orion</b>
+  <b>The Cat's Eye Nebula in Optical and X-ray</b>
 </p>
