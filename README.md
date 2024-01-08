@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2401/CatsEye_HubblePohl_1278.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2401/VenusPhases_Gonzales_1280.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>The Cat's Eye Nebula in Optical and X-ray</b>
+  <b>The Phases of Venus</b>
 </p>
