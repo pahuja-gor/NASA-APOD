@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2401/VenusPhases_Gonzales_1280.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2401/ThorsHelmet_Biswas_1436.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>The Phases of Venus</b>
+  <b>Thor's Helmet</b>
 </p>
