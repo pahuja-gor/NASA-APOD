@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2401/ThorsHelmet_Biswas_1436.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2401/Sh2_155_4K_5Mb.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Thor's Helmet</b>
+  <b>The Light, the Dark, and the Dusty</b>
 </p>
