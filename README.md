@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2401/DragonAurora_Zhang_2241.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2401/IC348_webb_3788.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Dragon Aurora over Iceland</b>
+  <b>Star Cluster IC 348 from Webb</b>
 </p>
