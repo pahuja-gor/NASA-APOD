@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2401/image-20240116164558_v1.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2401/Ain_4096.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Jyväskylä in the Sky</b>
+  <b>Epsilon Tauri: Star with Planet</b>
 </p>
