@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2401/Full_Moon_Jan_24_Beletsky.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2401/PlutoTrueColor_NewHorizons_8000.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Full Observatory Moon</b>
+  <b>Pluto in True Color</b>
 </p>
