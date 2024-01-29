@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2401/PlutoTrueColor_NewHorizons_8000.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2401/Pleiades_Stocks_2048.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Pluto in True Color</b>
+  <b>The Pleiades: Seven Dusty Sisters</b>
 </p>
