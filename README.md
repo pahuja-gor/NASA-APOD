@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2401/Pleiades_Stocks_2048.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2401/Slim_jaxa_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>The Pleiades: Seven Dusty Sisters</b>
+  <b>SLIM Lands on the Moon</b>
 </p>
