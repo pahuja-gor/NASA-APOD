@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2402/Ngc1566_HubbleWebb_2125.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2402/NGC104_RGB_NASA.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>NGC 1566: A Spiral Galaxy from Webb and Hubble</b>
+  <b>Globular Star Cluster 47 Tuc</b>
 </p>
