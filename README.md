@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2402/NGC104_RGB_NASA.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2402/Rosette2024newt533mmcopy.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Globular Star Cluster 47 Tuc</b>
+  <b>When Roses Aren't Red</b>
 </p>
