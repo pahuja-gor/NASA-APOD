@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2402/PIA26243-web.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2402/sts98plume_nasa_1111.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>The Shadow of Ingenuity's Damaged Rotor Blade</b>
+  <b>Rocket Plume Shadow Points to the Moon</b>
 </p>
