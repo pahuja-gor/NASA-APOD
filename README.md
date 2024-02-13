@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2402/Hfg1Abell6_CadenaCoulon_6140.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2402/WolfMoon_Zegarski_3648.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>HFG1 & Abell 6: Planetary Nebulae</b>
+  <b>A January Wolf Moon</b>
 </p>
