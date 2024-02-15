@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2402/RosetteCone_Bernard_5398.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2402/ngc253_STXL6303_RC14_LHaRGB_2023.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Rosette Deep Field</b>
+  <b>NGC 253: Dusty Island Universe</b>
 </p>
