@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2402/MeteorBayofNaples_V2.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2402/Hoag_HubbleBlanco_3000.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Meteor over the Bay of Naples</b>
+  <b>Hoag's Object: A Nearly Perfect Ring Galaxy</b>
 </p>
