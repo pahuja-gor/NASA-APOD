@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2402/M106field_KyunghoonLim2048.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2402/NGC2736_Helge_Buesing2048.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>A View Toward M106</b>
+  <b>The Pencil Nebula Supernova Shock Wave</b>
 </p>
