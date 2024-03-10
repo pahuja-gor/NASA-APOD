@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2403/2024_03_05_Pons-Brooks_Revuca_1500px.png)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2403/AntarcticEclipse_bruenjes_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Comet Pons-Brooks in Northern Spring</b>
+  <b>A Total Eclipse at the End of the World</b>
 </p>
