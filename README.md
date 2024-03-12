@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2403/FullPlantonMoon_Horalek_1022.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2403/RocketSpiral_Yang_3024.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>A Full Plankton Moon</b>
+  <b>A Galaxy-Shaped Rocket Exhaust Spiral</b>
 </p>
