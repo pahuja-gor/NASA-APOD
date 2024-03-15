@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2403/MoonriseShadowDLopez_1.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2403/Image133k_n1055.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Moon Pi and Mountain Shadow</b>
+  <b>Portrait of NGC 1055</b>
 </p>
