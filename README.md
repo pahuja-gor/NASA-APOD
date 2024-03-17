@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2403/ELT_2024-03-13_2048.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2403/Ngc7714_HubblePohl_2048.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>ELT and the Milky Way</b>
+  <b>NGC 7714: Starburst after Galaxy Collision</b>
 </p>
