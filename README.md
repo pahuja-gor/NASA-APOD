@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2403/Ngc7714_HubblePohl_2048.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2403/CometPonsBrook_Vallestad_2564.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>NGC 7714: Starburst after Galaxy Collision</b>
+  <b>Comet Pons-Brooks' Swirling Coma</b>
 </p>
