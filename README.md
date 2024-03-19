@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2403/CometPonsBrook_Vallestad_2564.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2403/EquinoxSunset_Dyer_1701.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Comet Pons-Brooks' Swirling Coma</b>
+  <b>A Picturesque Equinox Sunset</b>
 </p>
