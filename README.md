@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2403/CometPons_Peirce_5119.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2403/ComaCluster_Hua_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Comet Pons-Brooks' Ion Tail</b>
+  <b>The Coma Cluster of Galaxies</b>
 </p>
