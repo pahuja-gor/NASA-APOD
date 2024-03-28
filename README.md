@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2403/ComaCluster_Hua_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2403/NGC5139_mdf.png)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>The Coma Cluster of Galaxies</b>
+  <b>Millions of Stars in Omega Centauri</b>
 </p>
