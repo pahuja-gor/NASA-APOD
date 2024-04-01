@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2403/EclipseAntarctica_Horalek_1500.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2404/SagAstarB_EHT_2000.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Total Solar Eclipse Below the Bottom of the World</b>
+  <b>Swirling Magnetic Field around Our Galaxy's Central Black Hole</b>
 </p>
