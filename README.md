@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2404/SagAstarB_EHT_2000.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2404/CoronaExmouth_Hart_1920.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Swirling Magnetic Field around Our Galaxy's Central Black Hole</b>
+  <b>Detailed View of a Solar Eclipse Corona</b>
 </p>
