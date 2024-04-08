@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2404/EclipseWyoming_Cooper_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2404/Comet12pTails_ShengyuLi_3000.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>A Total Solar Eclipse over Wyoming</b>
+  <b>The Changing Ion Tail of Comet Pons-Brooks</b>
 </p>
