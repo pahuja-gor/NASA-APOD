@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2404/Comet12pTails_ShengyuLi_3000.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2404/StanHonda2024TSEMagogCanada.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>The Changing Ion Tail of Comet Pons-Brooks</b>
+  <b>Moon's Shadow over Lake Magog</b>
 </p>
