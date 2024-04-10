@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2404/StanHonda2024TSEMagogCanada.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2404/EclipsePlanets_Vetter_1014.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Moon's Shadow over Lake Magog</b>
+  <b>Planets Around a Total Eclipse</b>
 </p>
