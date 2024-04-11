@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2404/EclipsePlanets_Vetter_1014.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2404/2024_Eclipse_05XTan.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Planets Around a Total Eclipse</b>
+  <b>Eclipse in Seven</b>
 </p>
