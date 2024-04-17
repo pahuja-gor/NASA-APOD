@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2404/VelaSnr_CTIO_3989.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2404/EclipseComets_Zixuan_6105.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Filaments of the Vela Supernova Remnant</b>
+  <b>Total Eclipse and Comets</b>
 </p>
