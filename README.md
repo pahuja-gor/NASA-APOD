@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2404/ContrailX_Ekmen_2268.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2404/DragonsEgg_Prangley_4688.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Contrail Shadow X</b>
+  <b>Dragon's Egg Bipolar Emission Nebula</b>
 </p>
