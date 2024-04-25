@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2404/DragonsEgg_Prangley_4688.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2404/stsci-xNGC604NIRcam2048.png)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Dragon's Egg Bipolar Emission Nebula</b>
+  <b>NGC 604: Giant Stellar Nursery</b>
 </p>
