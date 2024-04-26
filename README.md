@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2404/stsci-xNGC604NIRcam2048.png)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2404/Regulus_Dwarf_by_Markus_Horn2048.png)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>NGC 604: Giant Stellar Nursery</b>
+  <b>Regulus and the Dwarf Galaxy</b>
 </p>
