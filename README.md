@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2404/GKPerWide_DSC_4329.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2405/FishheadB_Colombari_2704.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>GK Per: Nova and Planetary Nebula</b>
+  <b>IC 1795: The Fishhead Nebula</b>
 </p>
