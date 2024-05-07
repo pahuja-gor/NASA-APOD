@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2405/BhShredder_NASA_3482.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2405/BlackHole_Simonnet_2491.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>A Black Hole Disrupts a Passing Star</b>
+  <b>Black Hole Accreting with Jet</b>
 </p>
