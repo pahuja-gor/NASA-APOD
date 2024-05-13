@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2405/AuroraPoland_Durlej_1940.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2405/SunAr3664_Menario_1508.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Red Aurora over Poland</b>
+  <b>AR 3664 on a Setting Sun</b>
 </p>
