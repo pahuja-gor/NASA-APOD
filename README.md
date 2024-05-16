@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2405/AR3664Prom_Voltmer_1728.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2405/WrightDobbs_Georgia_Aurora_2.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>AR 3664 at the Sun's Edge</b>
+  <b>Aurora Georgia</b>
 </p>
