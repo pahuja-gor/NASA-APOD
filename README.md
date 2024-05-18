@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2405/DSC_6363Panorama-2.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2405/AuroraStartrails_chiragupreti.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Aurora Banks Peninsula</b>
+  <b>North Celestial Aurora</b>
 </p>
