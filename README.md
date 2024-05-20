@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2405/AuroraStartrails_chiragupreti.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2405/AuroraWisconsin_Liu_6000.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>North Celestial Aurora</b>
+  <b>Aurora Dome Sky</b>
 </p>
