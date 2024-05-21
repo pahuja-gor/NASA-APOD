@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2405/AuroraWisconsin_Liu_6000.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2405/Cg4Galaxy_CtioRector_1476.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Aurora Dome Sky</b>
+  <b>CG4: The Globule and the Galaxy</b>
 </p>
