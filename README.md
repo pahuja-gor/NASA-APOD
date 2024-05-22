@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2405/Cg4Galaxy_CtioRector_1476.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2405/AuroraSweden_Strand_1500.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>CG4: The Globule and the Galaxy</b>
+  <b>Green Aurora over Sweden</b>
 </p>
