@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2405/N3169N3166Final.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2405/M78_Euclid_5532.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Unraveling NGC 3169</b>
+  <b>M78 from the Euclid Space Telescope</b>
 </p>
