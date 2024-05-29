@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2405/Cederblad111-110.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2405/StairwayToMilkyway_Marcin_6000.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Chamaeleon I Molecular Cloud</b>
+  <b>Stairway to the Milky Way</b>
 </p>
