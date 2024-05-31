@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2405/EiffelCorona_Binotto_2000.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2405/NebulousRealmofWR134_2048.png)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>A Lunar Corona over Paris</b>
+  <b>The Nebulous Realm of WR 134</b>
 </p>
