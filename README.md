@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2405/NebulousRealmofWR134_2048.png)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2406/N00172886_92_beltramini.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>The Nebulous Realm of WR 134</b>
+  <b>Stereo Helene</b>
 </p>
