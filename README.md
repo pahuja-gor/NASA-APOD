@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2406/DolphinNebulaHOO_2048.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2406/abell2744_jwst.png)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>SH2-308: The Dolphin Head Nebula</b>
+  <b>Pandora's Cluster of Galaxies</b>
 </p>
