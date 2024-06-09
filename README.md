@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2406/abell2744_jwst.png)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2406/astronomy101_hk_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Pandora's Cluster of Galaxies</b>
+  <b>How to Identify that Light in the Sky</b>
 </p>
