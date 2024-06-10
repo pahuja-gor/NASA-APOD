@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2406/astronomy101_hk_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2406/LionNeb_Badr_3720.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>How to Identify that Light in the Sky</b>
+  <b>Sh2-132: The Lion Nebula</b>
 </p>
