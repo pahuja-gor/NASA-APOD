@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2406/LionNeb_Badr_3720.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2406/RhoAntares_Stocks_2560.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Sh2-132: The Lion Nebula</b>
+  <b>Colorful Stars and Clouds near Rho Ophiuchi</b>
 </p>
