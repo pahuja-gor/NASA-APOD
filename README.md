@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2406/RhoAntares_Stocks_2560.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2406/AuroraKarkonosze_Koszela_1409.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Colorful Stars and Clouds near Rho Ophiuchi</b>
+  <b>Aurora over Karkonosze Mountains</b>
 </p>
