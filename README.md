@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2406/AuroraKarkonosze_Koszela_1409.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2406/heic1006a_M66.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Aurora over Karkonosze Mountains</b>
+  <b>Messier 66 Close Up</b>
 </p>
