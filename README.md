@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2406/HaLRGB+v2Pugh.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2406/Halpha_sondergaard.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>RCW 85</b>
+  <b>Prominences and Filaments on the Active Sun</b>
 </p>
