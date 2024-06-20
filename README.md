@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2406/AraDragons_Taylor_4728.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2406/MoonHalo_pace.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>NGC 6188: Dragons of Ara</b>
+  <b>Sandy and the Moon Halo</b>
 </p>
