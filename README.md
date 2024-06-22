@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2406/NGC1546compassHST.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2406/LDN1251_2048.png)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Hubble's NGC 1546</b>
+  <b>Lynds Dark Nebula 1251</b>
 </p>
