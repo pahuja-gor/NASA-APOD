@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2406/Doodad_PughSung_9193.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2406/STScI-SerpNorth.png)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>The Dark Doodad Nebula</b>
+  <b>Protostellar Outflows in Serpens</b>
 </p>
