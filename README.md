@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2407/IridescentClouds_Strand_1500.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2407/ExoplanetZoo_Vargic_2000.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Iridescent Clouds over Sweden</b>
+  <b>Exoplanet Zoo: Other Stars</b>
 </p>
