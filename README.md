@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2407/NoctilucentFlorida_Pouquet_1966.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2407/sagittariusTri.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Noctilucent Clouds over Florida</b>
+  <b>A Sagittarius Triplet</b>
 </p>
