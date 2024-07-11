@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2407/sagittariusTri.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2407/NGC5139_Stein_a2048.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>A Sagittarius Triplet</b>
+  <b>Globular Cluster Omega Centauri</b>
 </p>
