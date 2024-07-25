@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2407/ExaggeratedMoon_Ibatulin_2610.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2407/NGC7023_LRGB_fin_sig.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Exaggerated Moon</b>
+  <b>NGC 7023: The Iris Nebula</b>
 </p>
