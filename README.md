@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2407/NGC6946_verB.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2407/MoonSaturnOcc_Xu20240725.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Facing NGC 6946</b>
+  <b>Saturn at the Moon's Edge</b>
 </p>
