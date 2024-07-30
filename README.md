@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2407/UluruMilkyWay_Inwood_1350.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2407/Arp142_Webb_1487.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Milky Way over Uluru</b>
+  <b>Arp 142: Interacting Galaxies from Webb</b>
 </p>
