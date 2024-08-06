@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2408/LarsMilkyWay_Larnaout_2048.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2408/StormCloud_Rowe_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Milky Way Over Tunisia</b>
+  <b>Storm Cloud Over Texas</b>
 </p>
