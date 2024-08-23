@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2408/DarkTowerCDK700-Selby.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2408/CTA1_15_75_Lelu2048.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>The Dark Tower in Scorpius</b>
+  <b>Supernova Remnant CTA 1</b>
 </p>
