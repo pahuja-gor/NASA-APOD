@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2409/SunTriangle_Vanoni_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2409/MoonPleiades_Dyer_2048.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>A Triangular Prominence Hovers Over the Sun</b>
+  <b>Quarter Moon and Sister Stars</b>
 </p>
