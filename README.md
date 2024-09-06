@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2409/NGC247-Hag-Ben2048.JPG)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2409/NeptuneTriton_webb1059.png)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>NGC 247 and Friends</b>
+  <b>Ringed Ice Giant Neptune</b>
 </p>
