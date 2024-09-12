@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2409/NightTatra_Rosadzinski_5028.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2409/NGC1333Webb.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>A Night Sky over the Tatra Mountains</b>
+  <b>Young Star Cluster NGC 1333</b>
 </p>
