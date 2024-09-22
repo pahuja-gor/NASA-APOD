@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2409/RayosCrepusculares.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2409/Chicagohenge_Artese_1320.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Sunrise Shadows in the Sky</b>
+  <b>Chicagohenge: Equinox in an Aligned City</b>
 </p>
