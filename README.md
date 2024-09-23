@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2409/Chicagohenge_Artese_1320.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2409/Comet23A3_Valente_5672.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Chicagohenge: Equinox in an Aligned City</b>
+  <b>Comet Tsuchinshan-ATLAS Approaches</b>
 </p>
