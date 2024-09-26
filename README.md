@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2409/Comet23A3_LucyHu_3000.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2409/M13IFN_2048.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Comet A3 Through an Australian Sunrise</b>
+  <b>The Great Globular Cluster in Hercules</b>
 </p>
