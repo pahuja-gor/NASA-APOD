@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2409/Galileo_L13_DSC_9929.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2409/Pleiades_WiseAntonucci_5000.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Rocket Eclipse at Sunset</b>
+  <b>Seven Dusty Sisters</b>
 </p>
