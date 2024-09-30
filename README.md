@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2409/Pleiades_WiseAntonucci_5000.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2409/CometA3_Korona_2040.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Seven Dusty Sisters</b>
+  <b>Comet Tsuchinshan-ATLAS over Mexico</b>
 </p>
