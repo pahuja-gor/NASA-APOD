@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2409/CometA3_Korona_2040.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2410/LMC_Nowak_2160.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Comet Tsuchinshan-ATLAS over Mexico</b>
+  <b>The Large Magellanic Cloud Galaxy</b>
 </p>
