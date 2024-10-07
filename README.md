@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2410/comet_mcnaught_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2410/CometA3_Mueras_1872.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>The Magnificent Tail of Comet McNaught</b>
+  <b>The Long Tails Comet Tsuchinshan-ATLAS</b>
 </p>
