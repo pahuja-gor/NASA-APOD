@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2410/CometA3_Mueras_1872.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2410/AnnularEclipse_Trigo_1080.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>The Long Tails Comet Tsuchinshan-ATLAS</b>
+  <b>Annular Eclipse over Patagonia</b>
 </p>
