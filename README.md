@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2410/CometA3Dc_Gilmore_1080.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2410/AuroraNz_McDonald_2048.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Comet Tsuchinshan-ATLAS Over the Lincoln Memorial</b>
+  <b>Colorful Aurora over New Zealand</b>
 </p>
