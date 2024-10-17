@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2410/AuroraNz_McDonald_2048.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2410/EuropaComet_cooper3.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Colorful Aurora over New Zealand</b>
+  <b>The Clipper and the Comet</b>
 </p>
