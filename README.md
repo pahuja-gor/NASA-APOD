@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2410/EuropaComet_cooper3.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2410/a3_20241014_s.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>The Clipper and the Comet</b>
+  <b>Most of Comet Tsuchinshan-ATLAS</b>
 </p>
