@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2410/a3_20241014_s.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2410/C2023A3-in-the-past-6-days.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Most of Comet Tsuchinshan-ATLAS</b>
+  <b>Comet Tsuchinshan-ATLAS Flys Away</b>
 </p>
