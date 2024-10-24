@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2410/M16_HubbleWebbPisano_6500.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2410/NGC7293_preview.png)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>M16: Pillars of Star Creation</b>
+  <b>NGC 7293: The Helix Nebula</b>
 </p>
