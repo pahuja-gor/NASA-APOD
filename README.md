@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2410/NGC7293_preview.png)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2410/NGC6752_DiFusco.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>NGC 7293: The Helix Nebula</b>
+  <b>Globular Star Cluster NGC 6752</b>
 </p>
