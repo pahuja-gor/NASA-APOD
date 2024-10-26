@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2410/NGC6752_DiFusco.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2410/IC63.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Globular Star Cluster NGC 6752</b>
+  <b>Phantoms in Cassiopeia</b>
 </p>
