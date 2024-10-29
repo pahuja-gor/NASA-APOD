@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2410/SteveFrance_leroux_2160.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2410/NGC602_Webb_5863.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>STEVE: A Glowing River over France</b>
+  <b>NGC 602: Stars Versus Pillars from Webb</b>
 </p>
