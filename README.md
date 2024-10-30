@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2410/NGC602_Webb_5863.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2410/BubbleRed_Leader_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>NGC 602: Stars Versus Pillars from Webb</b>
+  <b>NGC 7635: The Bubble Nebula</b>
 </p>
