@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2410/Strega_apod_3.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2411/NGC6744_V2_8_sm.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Rigel and the Witch Head Nebula</b>
+  <b>Spiral Galaxy NGC 6744</b>
 </p>
