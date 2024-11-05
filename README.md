@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2411/Orion_Lorand_1992.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2411/IslandMoai_Dury_2831.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>M42: The Great Nebula in Orion</b>
+  <b>Milky Way over Easter Island</b>
 </p>
