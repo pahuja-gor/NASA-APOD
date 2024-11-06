@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2411/IslandMoai_Dury_2831.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2411/CometA3Dolomites_Masi_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Milky Way over Easter Island</b>
+  <b>Comet Tsuchinshan-Atlas over the Dolomites</b>
 </p>
