@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2411/CometA3Dolomites_Masi_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2411/NGC474_S1_Crop.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Comet Tsuchinshan-Atlas over the Dolomites</b>
+  <b>Shell Galaxies in Pisces</b>
 </p>
