@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2411/NGC474_S1_Crop.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2411/Ldn1355HelpingHandFR2048.png)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Shell Galaxies in Pisces</b>
+  <b>Helping Hand in Cassiopeia</b>
 </p>
