@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2411/CometDarkTail_Falls_5122.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2411/Ngc6888Hoo_Aro_2466.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>The Unusual Tails of Comet Tsuchinshan-Atlas</b>
+  <b>NGC 6888: The Crescent Nebula</b>
 </p>
