@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2411/Ngc6888Hoo_Aro_2466.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2411/JWSTMIRI_ngc1365.png)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>NGC 6888: The Crescent Nebula</b>
+  <b>Barred Spiral Galaxy NGC 1365 from Webb</b>
 </p>
