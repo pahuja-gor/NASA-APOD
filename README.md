@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2411/JWSTMIRI_ngc1365.png)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2411/IC348_B3_2048.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Barred Spiral Galaxy NGC 1365 from Webb</b>
+  <b>IC 348 and Barnard 3</b>
 </p>
