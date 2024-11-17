@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2411/PIA20727PlutoNight.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2411/LDN1471_HubbleSchmidt_1024.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Pluto at Night</b>
+  <b>LDN 1471: A Windblown Star Cavity</b>
 </p>
