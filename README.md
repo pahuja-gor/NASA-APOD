@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2412/2023-11-17-1617_1632-Jupiter_Stereo.png)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2412/PurpleMountainObservatoryXuYiStationFireball.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Stereo Jupiter near Opposition</b>
+  <b>Xuyi Station and the Fireball</b>
 </p>
