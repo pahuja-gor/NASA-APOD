@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2412/SaturnAurora_Hubble_2215.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2412/Pleiades_Pelizzo_9396.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Aurora around Saturn's North Pole</b>
+  <b>Pleiades: The Seven Sisters Star Cluster</b>
 </p>
