@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2412/Heart_HorneEvans_4096.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2412/NGC660_Selby_1720.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Near to the Heart Nebula</b>
+  <b>NGC 660: Polar Ring Galaxy</b>
 </p>
