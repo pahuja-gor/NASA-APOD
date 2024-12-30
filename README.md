@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2412/BaikalBubbles_Makeeva_1000.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2412/M27_Stobie_1432.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Methane Bubbles Frozen in Lake Baikal</b>
+  <b>M27: The Dumbbell Nebula</b>
 </p>
