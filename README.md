@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2412/NGC4753_HubbleReinartz_3900.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2501/AlphaCen_Cantrell_3429.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>The Twisted Disk of NGC 4753</b>
+  <b>Alpha Centauri: The Closest Star System</b>
 </p>
