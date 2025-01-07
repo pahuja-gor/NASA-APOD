@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2501/CollidingGalaxies_WebbHubble_1877.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2501/AuroraSar_Masi_1280.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Colliding Spiral Galaxies from Webb and Hubble</b>
+  <b>A New Year's Aurora and SAR Arc</b>
 </p>
