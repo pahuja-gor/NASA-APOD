@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2501/AuroraSar_Masi_1280.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2501/Supernovas_Vetter_1653.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>A New Year's Aurora and SAR Arc</b>
+  <b>Supernova Remnants Big and Small</b>
 </p>
