@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2501/Supernovas_Vetter_1653.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2501/Image171a.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Supernova Remnants Big and Small</b>
+  <b>Peculiar Galaxies of Arp 273</b>
 </p>
