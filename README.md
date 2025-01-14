@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2501/CometAtlas_Horalek_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2501/PolarisIfn_Coverta_3050.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Comet ATLAS Before Sunrise</b>
+  <b>North Star: Polaris and Surrounding Dust</b>
 </p>
