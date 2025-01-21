@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2501/CometG3Perihelion_SohoLigustri_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2501/CometATLAS_Danin_1080.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Comet ATLAS Rounds the Sun</b>
+  <b>Comet ATLAS over Brasília</b>
 </p>
