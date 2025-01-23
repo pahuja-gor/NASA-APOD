@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2501/NGC7000_Valianos_3132.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2501/NGC_7814_crop-rev-1.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>The North America Nebula</b>
+  <b>NGC 7814: Little Sombrero</b>
 </p>
