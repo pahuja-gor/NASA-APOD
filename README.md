@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2501/NGC_7814_crop-rev-1.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2501/C2024G3_ATLAS_ESO_Beletsky.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>NGC 7814: Little Sombrero</b>
+  <b>Comet G3 ATLAS: a Tail and a Telescope</b>
 </p>
