@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2501/C2024G3_ATLAS_ESO_Beletsky.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2501/ngc1333_jeff_version_4_2048.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Comet G3 ATLAS: a Tail and a Telescope</b>
+  <b>Stardust in the Perseus Molecular Cloud</b>
 </p>
