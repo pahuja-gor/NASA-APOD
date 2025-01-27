@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2501/AtlasParanal_Kurak_2000.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2501/HalfPleiades_Venkatraman_1365.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>The Many Tails of Comet G3 ATLAS</b>
+  <b>Pleiades over Half Dome</b>
 </p>
