@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2501/AtlasFields_Salazar_3214.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2501/Wr140Rings_Webb_960_2023.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Comet G3 ATLAS over Uruguay</b>
+  <b>Dust Shells around WR 140 from Webb</b>
 </p>
