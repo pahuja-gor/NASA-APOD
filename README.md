@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2502/AtlasDisintegrating_Majzik_3600.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2502/wr124_hubbleschmidt_1289.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Comet G3 ATLAS Disintegrates</b>
+  <b>Wolf-Rayet Star 124: Stellar Wind Machine</b>
 </p>
