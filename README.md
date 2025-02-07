@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2502/289_lorand_fenyes_coddington_ic2574_nagy.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2502/Hubble_LEDA1313424_STScI-01.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>IC 2574: Coddington's Nebula</b>
+  <b>LEDA 1313424: The Bullseye Galaxy</b>
 </p>
