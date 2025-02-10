@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2502/PinnaclesGalaxy_Goh_2400.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2502/BirdAurora_Coulon_2581.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Milky Way over the Australian Pinnacles</b>
+  <b>Auroral Hummingbird over Norway</b>
 </p>
