@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2502/SpiderFly_Boddington_4788.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2502/Vdb31_Astrobin2048.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>The Spider and the Fly</b>
+  <b>Reflections on VdB 31</b>
 </p>
