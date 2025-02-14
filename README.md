@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2502/Vdb31_Astrobin2048.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2502/RosetteNeb.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Reflections on VdB 31</b>
+  <b>A Cosmic Rose: NGC 2237 in Monoceros</b>
 </p>
