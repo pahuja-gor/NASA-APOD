@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2502/20250205_rima_hyginus_mirabella_1500px.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2502/SaturnIR_CassiniKakitsev_1024.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Rima Hyginus</b>
+  <b>Saturn in Infrared from Cassini</b>
 </p>
