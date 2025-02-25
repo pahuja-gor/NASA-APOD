@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2502/LightPillarVolcano_Calio_1333.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2502/M41_Li_4000.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Light Pillar over Erupting Etna</b>
+  <b>M41: The Little Beehive Star Cluster</b>
 </p>
