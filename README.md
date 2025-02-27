@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2502/ClusterRing_Euclid_2665.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2502/M35_NGC2158_2048.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Einstein Ring Surrounds Nearby Galaxy Center</b>
+  <b>Open Star Clusters M35 and NGC 2158</b>
 </p>
