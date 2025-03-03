@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2503/BlueGhost_lunar1067.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2503/BlueGhostShadow_Firefly_4096.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Blue Ghost to the Moon</b>
+  <b>Blue Ghost on the Moon</b>
 </p>
