@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2503/California2Pleiades_Anderson_9953.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2503/M94_hst1542a_1280.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Seven Sisters versus California</b>
+  <b>Starburst Galaxy Messier 94</b>
 </p>
