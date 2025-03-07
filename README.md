@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2503/M94_hst1542a_1280.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2503/Abell7_VChander4096.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Starburst Galaxy Messier 94</b>
+  <b>Planetary Nebula Abell 7</b>
 </p>
