@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2503/Abell7_VChander4096.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2503/iss072e574593_DonPetit2048.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Planetary Nebula Abell 7</b>
+  <b>Galaxies in Space</b>
 </p>
