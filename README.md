@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2503/JupiterCyclones_Juno_2362.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2503/California_Mendez_2604.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Cyclones at Jupiter's North Pole</b>
+  <b>NGC 1499: The California Nebula</b>
 </p>
