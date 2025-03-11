@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2503/California_Mendez_2604.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2503/NGC1672B_Hubble_4000.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>NGC 1499: The California Nebula</b>
+  <b>NGC 1672: Barred Spiral Galaxy from Hubble</b>
 </p>
