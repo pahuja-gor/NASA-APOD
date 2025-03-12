@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2503/NGC1672B_Hubble_4000.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2503/NGC772Comet_Bax_4724.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>NGC 1672: Barred Spiral Galaxy from Hubble</b>
+  <b>NGC 772: The Fiddlehead Galaxy</b>
 </p>
