@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2503/SunVenusUv3_SdoDove_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2503/ThorHelmet_Hopkins_3888.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Venus and the Triply Ultraviolet Sun</b>
+  <b>Thor's Helmet</b>
 </p>
