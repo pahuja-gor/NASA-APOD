@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2503/Shark_Martin_5441.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2503/eclipse-shot-from-blue-ghost-mission-1.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>LDN 1235: The Shark Nebula</b>
+  <b>Blue Ghost's Diamond Ring</b>
 </p>
