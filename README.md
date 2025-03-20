@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2503/eclipse-shot-from-blue-ghost-mission-1.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2503/HunterWells_submission3-3.png)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Blue Ghost's Diamond Ring</b>
+  <b>The Solar Eclipse Analemma Project</b>
 </p>
