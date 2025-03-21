@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2503/HunterWells_submission3-3.png)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2503/image_1236LeoTrio.JPG)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>The Solar Eclipse Analemma Project</b>
+  <b>The Leo Trio</b>
 </p>
