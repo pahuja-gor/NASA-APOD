@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2503/image_1236LeoTrio.JPG)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2503/pia24493-2-1041.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>The Leo Trio</b>
+  <b>SuperCam Target on Ma'az</b>
 </p>
