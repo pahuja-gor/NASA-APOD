@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2503/N00172886_92_beltramini.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2504/PartialSolar_Gorecka_3453.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Stereo Helene</b>
+  <b>A Partial Solar Eclipse over Iceland</b>
 </p>
