@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2504/PartialSolar_Gorecka_3453.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2503/JupiterRing_WebbSchmidt_2429.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>A Partial Solar Eclipse over Iceland</b>
+  <b>Jupiter and Ring in Infrared from Webb</b>
 </p>
