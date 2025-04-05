@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2504/ARP316.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2504/NDGargoylesEclipse_kulik.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>Hickson 44 in Leo</b>
+  <b>The Gargoyles' Eclipse</b>
 </p>
