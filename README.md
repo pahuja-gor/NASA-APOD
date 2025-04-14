@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2504/MarsPit_mro_2628.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2504/GCenter_MeerKatWebb_7642.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>An Unusual Hole in Mars</b>
+  <b>The Galactic Center in Radio from MeerKAT</b>
 </p>
