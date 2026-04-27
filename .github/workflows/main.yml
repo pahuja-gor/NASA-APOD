@@ -29,8 +29,8 @@ jobs:
       - name: commit files
         run: |
           git add -A
-          git config --local user.name "${{ secrets.GIT_AUTHOR_NAME }}"
-          git config --local user.email "${{ secrets.GIT_AUTHOR_EMAIL }}"
+          git config --local user.name "${{ vars.GIT_AUTHOR_NAME }}"
+          git config --local user.email "${{ vars.GIT_AUTHOR_EMAIL }}"
           git commit -m "Updating NASA Astronomy Picture of the Day"
           
       - name: push changes
