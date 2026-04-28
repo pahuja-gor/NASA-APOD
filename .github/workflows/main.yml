@@ -30,7 +30,7 @@ jobs:
         run: |
           git add -A
           git config --local user.name "${{ secrets.NAME }}"
-          git config --local user.email "${{ serets.EMAIL }}"
+          git config --local user.email "${{ secrets.EMAIL }}"
           git commit -m "Updating NASA Astronomy Picture of the Day"
           
       - name: push changes
