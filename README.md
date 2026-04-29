@@ -10,8 +10,8 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2604/CG30Globules_Salamme_2772.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2604/moon_venus_pleiades.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
 
 <p align = "center">
-  <b>CG 30: Cometary Globules</b>
+  <b>The Moon, Venus, and the Pleiades</b>
 </p>
