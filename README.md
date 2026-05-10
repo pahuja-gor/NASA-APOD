@@ -1,3 +1,4 @@
+
 <div align="center">
   <h1>
     NASA-APOD
@@ -10,7 +11,7 @@
 
 <br>
 
-![](https://apod.nasa.gov/apod/image/2605/CometOrion_Perrot_960.jpg)1600px.jpg)Circumpolarv2comentada.jpg)
+![](https://apod.nasa.gov/apod/image/2605/CometOrion_Perrot_960.jpg)
 
 <p align = "center">
   <b>Comet R3 PanSTARRS and Orion</b>
