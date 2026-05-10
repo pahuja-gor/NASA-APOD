@@ -9,12 +9,24 @@ soup = BeautifulSoup(get_request.content, 'html.parser')
 pic_of_the_day = base + soup.find('img').parent['href']
 caption = soup.findAll('center')[1].find('b').text.strip()
 
-readme_data = open('README.md', 'r').readlines()
+README_TEMPLATE = f'''
+<div align="center">
+  <h1>
+    NASA-APOD
+  </h1>
+</div>
+  
+<div align="center">
+  A fun program that displays NASA's Astronomy Picture of the Day
+</div>
 
-original_url = readme_data[12][readme_data[12].find('(') + 1 : readme_data[12].find(')')]
-original_caption = readme_data[15][readme_data[15].find('<b>') + 3 : readme_data[15].find('</b>')]
+<br>
 
-readme_data[15] = readme_data[15].replace(original_caption, caption)
-readme_data[12] = readme_data[12].replace(original_url, pic_of_the_day)
+![]({pic_of_the_day})
 
-open('README.md', 'w').writelines(readme_data)
+<p align = "center">
+  <b>{caption}</b>
+</p>
+'''
+
+open('README.md', 'w').writelines(README_TEMPLATE)
