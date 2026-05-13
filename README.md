@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2605/CometR3_Orion.jpg)
+  ![](https://apod.nasa.gov/apod/image/2605/Polarissima.jpg)
   
   <p align = "center">
-    <b>The Conjunction of Comet R3 PanSTARRS and the Orion Nebula</b>
+    <b>NGC 188: Old Cluster in the New General Catalog</b>
   </p>
   
