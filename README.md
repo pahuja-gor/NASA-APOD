@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2605/Polarissima.jpg)
+  ![](https://apod.nasa.gov/apod/image/2605/R3Orion_Hall_2870.jpg)
   
   <p align = "center">
-    <b>NGC 188: Old Cluster in the New General Catalog</b>
+    <b>R3 PanSTARRS: An Orion Comet</b>
   </p>
   
