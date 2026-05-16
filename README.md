@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2605/R3Orion_Hall_2870.jpg)
+  ![](https://apod.nasa.gov/apod/image/2605/aurora_iss052e007857.jpg)
   
   <p align = "center">
-    <b>R3 PanSTARRS: An Orion Comet</b>
+    <b>Aurora Slathers Up the Sky</b>
   </p>
   
