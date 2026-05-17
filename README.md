@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2605/aurora_iss052e007857.jpg)
+  ![](https://apod.nasa.gov/apod/image/2605/NGC1300_HST_6637.jpg)
   
   <p align = "center">
-    <b>Aurora Slathers Up the Sky</b>
+    <b>NGC 1300: Barred Spiral Galaxy</b>
   </p>
   
