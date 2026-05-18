@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2605/NGC1300_HST_6637.jpg)
+  ![](https://apod.nasa.gov/apod/image/2605/ngc3169_ngc3166_ngc3165.jpg)
   
   <p align = "center">
-    <b>NGC 1300: Barred Spiral Galaxy</b>
+    <b>Unraveling NGC 3169</b>
   </p>
   
