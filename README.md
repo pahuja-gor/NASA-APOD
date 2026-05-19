@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2605/ngc3169_ngc3166_ngc3165.jpg)
+  ![](https://apod.nasa.gov/apod/image/2605/Angel_Marriott_1707.jpg)
   
   <p align = "center">
-    <b>Unraveling NGC 3169</b>
+    <b>NGC 2170: The Angel Nebula</b>
   </p>
   
