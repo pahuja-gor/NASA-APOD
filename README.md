@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2605/Angel_Marriott_1707.jpg)
+  ![](https://apod.nasa.gov/apod/image/2605/dark_wolf.jpg)
   
   <p align = "center">
-    <b>NGC 2170: The Angel Nebula</b>
+    <b>The Dark Wolf Nebula</b>
   </p>
   
