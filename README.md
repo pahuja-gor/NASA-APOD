@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2605/dark_wolf.jpg)
+  ![](https://apod.nasa.gov/apod/image/2605/a2029_lg.jpg)
   
   <p align = "center">
-    <b>The Dark Wolf Nebula</b>
+    <b>A Collision of Galaxy Clusters</b>
   </p>
   
