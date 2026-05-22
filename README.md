@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2605/a2029_lg.jpg)
+  ![](https://apod.nasa.gov/apod/image/2605/WR134morrone2048.jpg)
   
   <p align = "center">
-    <b>A Collision of Galaxy Clusters</b>
+    <b>The Nebulous Realm of WR 134</b>
   </p>
   
