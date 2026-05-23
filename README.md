@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2605/WR134morrone2048.jpg)
+  ![](https://apod.nasa.gov/apod/image/2605/potw1913aa.jpg)
   
   <p align = "center">
-    <b>The Nebulous Realm of WR 134</b>
+    <b>Messier 2</b>
   </p>
   
