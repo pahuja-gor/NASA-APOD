@@ -11,9 +11,7 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2605/potw1913aa.jpg)
-  
   <p align = "center">
-    <b>Messier 2</b>
+    <b>NO IMAGE FOR TODAY :)</b>
   </p>
   
