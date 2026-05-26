@@ -11,7 +11,9 @@
   
   <br>
   
+  ![](https://apod.nasa.gov/apod/image/2605/Ngc3660Burcin_Block_1176.jpg)
+  
   <p align = "center">
-    <b>NO IMAGE FOR TODAY :)</b>
+    <b>NGC 3660 and Burçin's Galaxy</b>
   </p>
   
