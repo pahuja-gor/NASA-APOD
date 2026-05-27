@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2605/Ngc3660Burcin_Block_1176.jpg)
+  ![](https://apod.nasa.gov/apod/image/2605/headphone_nebula.jpg)
   
   <p align = "center">
-    <b>NGC 3660 and Burçin's Galaxy</b>
+    <b>PK 164 +31.1: The Headphone Nebula</b>
   </p>
   
