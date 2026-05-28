@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2605/headphone_nebula.jpg)
+  ![](https://apod.nasa.gov/apod/image/2605/noirlab2613a_large.jpg)
   
   <p align = "center">
-    <b>PK 164 +31.1: The Headphone Nebula</b>
+    <b>NGC 1514: The Crystal Ball Nebula</b>
   </p>
   
