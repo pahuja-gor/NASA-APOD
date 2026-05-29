@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2605/noirlab2613a_large.jpg)
+  ![](https://apod.nasa.gov/apod/image/2605/M104noirlab2612a.jpg)
   
   <p align = "center">
-    <b>NGC 1514: The Crystal Ball Nebula</b>
+    <b>Messier 104</b>
   </p>
   
