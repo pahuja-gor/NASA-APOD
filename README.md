@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2606/Vela_Mtanous_2900.jpg)
+  ![](https://apod.nasa.gov/apod/image/2606/andromeda.png)
   
   <p align = "center">
-    <b>The Vela Supernova Remnant</b>
+    <b>Andromeda Through Gas and Dust</b>
   </p>
   
