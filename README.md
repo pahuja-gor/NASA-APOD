@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2606/andromeda.png)
+  ![](https://apod.nasa.gov/apod/image/2606/buckyballs.jpg)
   
   <p align = "center">
-    <b>Andromeda Through Gas and Dust</b>
+    <b>A Planetary Nebula with Cosmic Buckyballs</b>
   </p>
   
