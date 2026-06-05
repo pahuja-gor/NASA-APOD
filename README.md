@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2606/buckyballs.jpg)
+  ![](https://apod.nasa.gov/apod/image/2606/HydraClusterSampaio.jpg)
   
   <p align = "center">
-    <b>A Planetary Nebula with Cosmic Buckyballs</b>
+    <b>The Hydra Cluster of Galaxies</b>
   </p>
   
