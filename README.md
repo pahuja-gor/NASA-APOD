@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2606/HydraClusterSampaio.jpg)
+  ![](https://apod.nasa.gov/apod/image/2606/Charon-Neutral-Bright-Release.jpg)
   
   <p align = "center">
-    <b>The Hydra Cluster of Galaxies</b>
+    <b>Charon: Moon of Pluto</b>
   </p>
   
