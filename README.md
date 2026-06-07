@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2606/Charon-Neutral-Bright-Release.jpg)
+  ![](https://apod.nasa.gov/apod/image/2606/JupiterPersonVenus_Nikodem_960.jpg)
   
   <p align = "center">
-    <b>Charon: Moon of Pluto</b>
+    <b>Jupiter and Venus from Earth</b>
   </p>
   
