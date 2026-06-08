@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2606/JupiterPersonVenus_Nikodem_960.jpg)
+  ![](https://apod.nasa.gov/apod/image/2606/R3Tails_Kurak_1973.jpg)
   
   <p align = "center">
-    <b>Jupiter and Venus from Earth</b>
+    <b>Comet R3 PanSTARRS Through Time</b>
   </p>
   
