@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2606/R3Tails_Kurak_1973.jpg)
+  ![](https://apod.nasa.gov/apod/image/2606/Thor_Drudis_4389.jpg)
   
   <p align = "center">
-    <b>Comet R3 PanSTARRS Through Time</b>
+    <b>Thor's Helmet</b>
   </p>
   
