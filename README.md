@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2606/Thor_Drudis_4389.jpg)
+  ![](https://apod.nasa.gov/apod/image/2606/Mermaid.jpg)
   
   <p align = "center">
-    <b>Thor's Helmet</b>
+    <b>The Mermaid Nebula Supernova Remnant</b>
   </p>
   
