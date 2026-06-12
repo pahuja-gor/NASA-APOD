@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2606/Mermaid.jpg)
+  ![](https://apod.nasa.gov/apod/image/2606/CosmicKissTheCoveAveburyDury.jpg)
   
   <p align = "center">
-    <b>The Mermaid Nebula Supernova Remnant</b>
+    <b>Venus and Jupiter: Conjunction from Avebury</b>
   </p>
   
