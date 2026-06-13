@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2606/CosmicKissTheCoveAveburyDury.jpg)
+  ![](https://apod.nasa.gov/apod/image/2606/earth_cassinimessenger_1799.jpg)
   
   <p align = "center">
-    <b>Venus and Jupiter: Conjunction from Avebury</b>
+    <b>Interplanetary Earth</b>
   </p>
   
