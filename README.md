@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2606/earth_cassinimessenger_1799.jpg)
+  ![](https://apod.nasa.gov/apod/image/2606/TripleSunShock_Winkopp_1108.jpg)
   
   <p align = "center">
-    <b>Interplanetary Earth</b>
+    <b>Triple Shockwave from Sun Crossing Rocket</b>
   </p>
   
