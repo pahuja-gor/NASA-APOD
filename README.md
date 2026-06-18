@@ -11,9 +11,7 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2606/SaturnRingsMoons_Cassini_960.jpg)
-  
   <p align = "center">
-    <b>Moons, Rings, Shadows, Clouds: Saturn (Cassini)</b>
+    <b>NO IMAGE FOR TODAY :)</b>
   </p>
   
