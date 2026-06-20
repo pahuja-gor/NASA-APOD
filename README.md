@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2606/StarryNight2_Guerra_4080.jpg)
+  ![](https://apod.nasa.gov/apod/image/2606/Venus_Moon_2026_06_17.jpg)
   
   <p align = "center">
-    <b>Starry Night II</b>
+    <b>Daytime Moon Meets Evening Star</b>
   </p>
   
