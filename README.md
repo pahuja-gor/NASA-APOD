@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2606/Keogram2025_Bassa_960.jpg)
+  ![](https://apod.nasa.gov/apod/image/2606/M27_antonucci_3090.jpg)
   
   <p align = "center">
-    <b>Keogram: The Sky in 2025</b>
+    <b>M27: The Dumbbell Nebula</b>
   </p>
   
