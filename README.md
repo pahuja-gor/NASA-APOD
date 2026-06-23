@@ -11,9 +11,7 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2606/M27_antonucci_3090.jpg)
-  
   <p align = "center">
-    <b>M27: The Dumbbell Nebula</b>
+    <b>NO IMAGE FOR TODAY :)</b>
   </p>
   
