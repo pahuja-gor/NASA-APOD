@@ -11,7 +11,9 @@
   
   <br>
   
+  ![](https://apod.nasa.gov/apod/image/2606/crepuscular2.jpg)
+  
   <p align = "center">
-    <b>NO IMAGE FOR TODAY :)</b>
+    <b>Anticrepuscular Rays over Sicily</b>
   </p>
   
