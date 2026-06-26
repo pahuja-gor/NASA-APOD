@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2606/crepuscular2.jpg)
+  ![](https://apod.nasa.gov/apod/image/2606/MilkyWaySeoulShingooLee.jpg)
   
   <p align = "center">
-    <b>Anticrepuscular Rays over Sicily</b>
+    <b>Milky Way Urban Style</b>
   </p>
   
