@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2606/PIA26726.jpg)
+  ![](https://apod.nasa.gov/apod/image/2606/AR4478_vidal_960.jpg)
   
   <p align = "center">
-    <b>Mars Marathon by Perseverance</b>
+    <b>AR 4478: Giant Sunspot Group</b>
   </p>
   
