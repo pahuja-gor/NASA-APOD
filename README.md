@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2606/AR4478_vidal_960.jpg)
+  ![](https://apod.nasa.gov/apod/image/2606/M82_HubbleWebb_5000.jpg)
   
   <p align = "center">
-    <b>AR 4478: Giant Sunspot Group</b>
+    <b>M82: Galaxy with a Supergalactic Wind</b>
   </p>
   
