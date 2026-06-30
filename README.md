@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2606/M82_HubbleWebb_5000.jpg)
+  ![](https://apod.nasa.gov/apod/image/2606/itokawa07_hayabusa_1080.jpg)
   
   <p align = "center">
-    <b>M82: Galaxy with a Supergalactic Wind</b>
+    <b>Unusually Smooth Sections of Asteroid Itokawa</b>
   </p>
   
