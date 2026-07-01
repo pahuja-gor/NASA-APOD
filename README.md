@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2606/itokawa07_hayabusa_1080.jpg)
+  ![](https://apod.nasa.gov/apod/image/2607/rho_ophiuchi_1024.png)
   
   <p align = "center">
-    <b>Unusually Smooth Sections of Asteroid Itokawa</b>
+    <b>The Cotton Candy Clouds of Rho Ophiuchi</b>
   </p>
   
