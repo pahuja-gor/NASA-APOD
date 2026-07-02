@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2607/rho_ophiuchi_1024.png)
+  ![](https://apod.nasa.gov/apod/image/2607/sibling_supernovae.jpg)
   
   <p align = "center">
-    <b>The Cotton Candy Clouds of Rho Ophiuchi</b>
+    <b>Sibling Supernova Remnants</b>
   </p>
   
