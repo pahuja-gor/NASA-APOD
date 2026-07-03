@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2607/sibling_supernovae.jpg)
+  ![](https://apod.nasa.gov/apod/image/2607/NGC6769LRGBcropAZ-1500-20-May-2026.jpg)
   
   <p align = "center">
-    <b>Sibling Supernova Remnants</b>
+    <b>Three Galaxies in Pavo</b>
   </p>
   
