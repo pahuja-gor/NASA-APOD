@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2607/NGC6769LRGBcropAZ-1500-20-May-2026.jpg)
+  ![](https://apod.nasa.gov/apod/image/2607/PIA00621.jpg)
   
   <p align = "center">
-    <b>Three Galaxies in Pavo</b>
+    <b>Pathfinder on Mars</b>
   </p>
   
