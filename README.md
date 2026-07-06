@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2607/iapetus4_cassini_4100.jpg)
+  ![](https://apod.nasa.gov/apod/image/2607/ZodiMw_Looten_6125.jpg)
   
   <p align = "center">
-    <b>Saturn's Iapetus: Painted Moon</b>
+    <b>Dueling Bands over the Atacama Desert</b>
   </p>
   
