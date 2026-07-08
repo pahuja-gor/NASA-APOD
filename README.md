@@ -11,9 +11,7 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2607/ZodiMw_Looten_6125.jpg)
-  
   <p align = "center">
-    <b>Dueling Bands over the Atacama Desert</b>
+    <b>NO IMAGE FOR TODAY :)</b>
   </p>
   
