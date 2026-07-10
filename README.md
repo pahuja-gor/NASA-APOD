@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2607/cosmic_bat_1024.jpg)
+  ![](https://apod.nasa.gov/apod/image/2607/C14MareOrientaleGuyBardon.jpg)
   
   <p align = "center">
-    <b>The Red Glow of the Cosmic Bat Nebula</b>
+    <b>Western Moon, Eastern Sea</b>
   </p>
   
