@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2607/C14MareOrientaleGuyBardon.jpg)
+  ![](https://apod.nasa.gov/apod/image/2607/M24.png)
   
   <p align = "center">
-    <b>Western Moon, Eastern Sea</b>
+    <b>Messier 24: Sagittarius Star Cloud</b>
   </p>
   
