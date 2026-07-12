@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2607/M24.png)
+  ![](https://apod.nasa.gov/apod/image/2607/NGC474_CfhtCoelum_1500.jpg)
   
   <p align = "center">
-    <b>Messier 24: Sagittarius Star Cloud</b>
+    <b>Galaxy NGC 474: Shells and Star Streams</b>
   </p>
   
