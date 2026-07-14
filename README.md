@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2607/NGC474_CfhtCoelum_1500.jpg)
+  ![](https://apod.nasa.gov/apod/image/2607/Torifune_JAXA_1400.jpg)
   
   <p align = "center">
-    <b>Galaxy NGC 474: Shells and Star Streams</b>
+    <b>Double Lobed Asteroid Torifune</b>
   </p>
   
