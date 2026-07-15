@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2607/Torifune_JAXA_1400.jpg)
+  ![](https://apod.nasa.gov/apod/image/2607/red_sprite.jpg)
   
   <p align = "center">
-    <b>Double Lobed Asteroid Torifune</b>
+    <b>Red Sprites in the Tatacoa Desert</b>
   </p>
   
