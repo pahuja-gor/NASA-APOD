@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2607/red_sprite.jpg)
+  ![](https://apod.nasa.gov/apod/image/2607/ngc300.jpg)
   
   <p align = "center">
-    <b>Red Sprites in the Tatacoa Desert</b>
+    <b>NGC 300: A Cosmic Gemstone with Stars and Gas Clouds</b>
   </p>
   
