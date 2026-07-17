@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2607/ngc300.jpg)
+  ![](https://apod.nasa.gov/apod/image/2607/10P_Tempel2_20260711_DEBartlett2048.jpg)
   
   <p align = "center">
-    <b>NGC 300: A Cosmic Gemstone with Stars and Gas Clouds</b>
+    <b>The Dust Trail of Comet Tempel 2</b>
   </p>
   
