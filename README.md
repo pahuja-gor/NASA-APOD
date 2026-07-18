@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2607/10P_Tempel2_20260711_DEBartlett2048.jpg)
+  ![](https://apod.nasa.gov/apod/image/2607/ShadowandRainbow_Loschiavo.jpg)
   
   <p align = "center">
-    <b>The Dust Trail of Comet Tempel 2</b>
+    <b>Shadow and Rainbow</b>
   </p>
   
