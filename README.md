@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2607/Genesisimpact_nasa_960.jpg)
+  ![](https://apod.nasa.gov/apod/image/2607/LibertyNeb_Carpenter_1830.jpg)
   
   <p align = "center">
-    <b>Flying Saucer Crash Lands in Utah Desert</b>
+    <b>NGC 3576: The Statue of Liberty Nebula</b>
   </p>
   
