@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2607/LibertyNeb_Carpenter_1830.jpg)
+  ![](https://apod.nasa.gov/apod/image/2607/TurtleRock_Curiosity_2048.jpg)
   
   <p align = "center">
-    <b>NGC 3576: The Statue of Liberty Nebula</b>
+    <b>Turtle Rock on Mars</b>
   </p>
   
