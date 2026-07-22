@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2607/TurtleRock_Curiosity_2048.jpg)
+  ![](https://apod.nasa.gov/apod/image/2607/corona_australis.jpg)
   
   <p align = "center">
-    <b>Turtle Rock on Mars</b>
+    <b>The Corona Australis Molecular Cloud and the Chandelier Cluster</b>
   </p>
   
