@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2607/corona_australis.jpg)
+  ![](https://apod.nasa.gov/apod/image/2607/LMC.jpg)
   
   <p align = "center">
-    <b>The Corona Australis Molecular Cloud and the Chandelier Cluster</b>
+    <b>The Large Magellanic Cloud</b>
   </p>
   
