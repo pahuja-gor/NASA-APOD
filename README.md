@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2607/LMC.jpg)
+  ![](https://apod.nasa.gov/apod/image/2607/RCW86Final2048.jpg)
   
   <p align = "center">
-    <b>The Large Magellanic Cloud</b>
+    <b>RCW 86: Historical Supernova Remnant</b>
   </p>
   
