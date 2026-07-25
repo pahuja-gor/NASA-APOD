@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2607/RCW86Final2048.jpg)
+  ![](https://apod.nasa.gov/apod/image/2607/TranquilitySerenity2048.jpg)
   
   <p align = "center">
-    <b>RCW 86: Historical Supernova Remnant</b>
+    <b>Tranquility and Serenity</b>
   </p>
   
