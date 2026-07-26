@@ -11,9 +11,7 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2607/TranquilitySerenity2048.jpg)
-  
   <p align = "center">
-    <b>Tranquility and Serenity</b>
+    <b>NO IMAGE FOR TODAY :)</b>
   </p>
   
