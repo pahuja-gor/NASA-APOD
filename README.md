@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2607/Bubble_Piechnik_1616.jpg)
+  ![](https://apod.nasa.gov/apod/image/2607/LoopVolcanos_Laserna_5815.jpg)
   
   <p align = "center">
-    <b>NGC 7635: The Bubble Nebula</b>
+    <b>Barnards Loop over Twin Volcanoes</b>
   </p>
   
