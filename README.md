@@ -11,9 +11,7 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2607/LoopVolcanos_Laserna_5815.jpg)
-  
   <p align = "center">
-    <b>Barnards Loop over Twin Volcanoes</b>
+    <b>NO IMAGE FOR TODAY :)</b>
   </p>
   
