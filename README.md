@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2607/red_sun.jpg)
+  ![](https://apod.nasa.gov/apod/image/2608/FullMoon28-7-2026BrankoNadj.jpg)
   
   <p align = "center">
-    <b>Red Sun through Wildfire Smoke</b>
+    <b>Buck Moon and Belt of Venus</b>
   </p>
   
