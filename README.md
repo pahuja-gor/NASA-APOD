@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2608/FullMoon28-7-2026BrankoNadj.jpg)
+  ![](https://apod.nasa.gov/apod/image/2608/FireRainbow_Harbig_4000.jpg)
   
   <p align = "center">
-    <b>Buck Moon and Belt of Venus</b>
+    <b>A Fire Rainbow over West Virginia</b>
   </p>
   
