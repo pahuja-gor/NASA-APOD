@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2608/FireRainbow_Harbig_4000.jpg)
+  ![](https://apod.nasa.gov/apod/image/2608/MeteorGecko_Burnett_4944.jpg)
   
   <p align = "center">
-    <b>A Fire Rainbow over West Virginia</b>
+    <b>Vaporizing Meteor Photobombs the Lacerta Nebula</b>
   </p>
   
