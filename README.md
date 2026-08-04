@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2608/MeteorGecko_Burnett_4944.jpg)
+  ![](https://apod.nasa.gov/apod/image/2608/HelixKnots_JWST_2000.jpg)
   
   <p align = "center">
-    <b>Vaporizing Meteor Photobombs the Lacerta Nebula</b>
+    <b>Curious Cometary Knots in the Helix Nebula</b>
   </p>
   
