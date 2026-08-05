@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2608/HelixKnots_JWST_2000.jpg)
+  ![](https://apod.nasa.gov/apod/image/2608/saturn_spokes.gif)
   
   <p align = "center">
-    <b>Curious Cometary Knots in the Helix Nebula</b>
+    <b>Spokes on Saturn's B Ring</b>
   </p>
   
