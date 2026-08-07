@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2608/SunFlowers_NSO_1901.jpg)
+  ![](https://apod.nasa.gov/apod/image/2608/noirlab2618b.jpg)
   
   <p align = "center">
-    <b>New Sharpest Image of the Sun Uncovers Instability</b>
+    <b>Rubin's COSMOS field</b>
   </p>
   
