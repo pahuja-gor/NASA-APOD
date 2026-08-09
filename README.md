@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2608/10P_Tempel2_Globular_M30_20260729_DEBartlett.jpg)
+  ![](https://apod.nasa.gov/apod/image/2608/sunsilhouettes_gilbert_1024.jpg)
   
   <p align = "center">
-    <b>A Messier Moment for Tempel 2</b>
+    <b>Contemplating the Sun</b>
   </p>
   
