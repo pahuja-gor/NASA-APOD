@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2608/sunsilhouettes_gilbert_1024.jpg)
+  ![](https://apod.nasa.gov/apod/image/2608/Three3GalaxyPairs_Sampaio_2784.jpg)
   
   <p align = "center">
-    <b>Contemplating the Sun</b>
+    <b>Three Galaxy Pairs</b>
   </p>
   
