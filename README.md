@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2608/Three3GalaxyPairs_Sampaio_2784.jpg)
+  ![](https://apod.nasa.gov/apod/image/2608/2026-08-05-0609_7-SaturnSystem_c.jpg)
   
   <p align = "center">
-    <b>Three Galaxy Pairs</b>
+    <b>Six Moons of Saturn</b>
   </p>
   
