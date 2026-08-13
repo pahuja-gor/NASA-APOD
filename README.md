@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2608/A_Planet_of_Meteors.jpg)
+  ![](https://apod.nasa.gov/apod/image/2608/total_solar_eclipse.jpg)
   
   <p align = "center">
-    <b>Perseids Over a little Planet</b>
+    <b>Total Solar Eclipse Over Spain</b>
   </p>
   
