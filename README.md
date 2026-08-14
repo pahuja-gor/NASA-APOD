@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2608/total_solar_eclipse.jpg)
+  ![](https://apod.nasa.gov/apod/image/2608/TSE2026DR_Madhaven.jpeg)
   
   <p align = "center">
-    <b>Total Solar Eclipse Over Spain</b>
+    <b>Total Solar Eclipse from Greenland</b>
   </p>
   
