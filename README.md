@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2608/TSE2026DR_Madhaven.jpeg)
+  ![](https://apod.nasa.gov/apod/image/2608/PerseidsAPOD_P-MHeden.jpg)
   
   <p align = "center">
-    <b>Total Solar Eclipse from Greenland</b>
+    <b>Bright Perseids from Sweden</b>
   </p>
   
