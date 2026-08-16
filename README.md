@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2608/PerseidsAPOD_P-MHeden.jpg)
+  ![](https://apod.nasa.gov/apod/image/2608/mwyellowstone_lane_1800.jpg)
   
   <p align = "center">
-    <b>Bright Perseids from Sweden</b>
+    <b>Milky Way over Yellowstone</b>
   </p>
   
