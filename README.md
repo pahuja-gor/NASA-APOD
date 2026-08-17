@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2608/mwyellowstone_lane_1800.jpg)
+  ![](https://apod.nasa.gov/apod/image/2608/GoldCorona_Santos_1751.jpg)
   
   <p align = "center">
-    <b>Milky Way over Yellowstone</b>
+    <b>A Golden Corona Eclipse</b>
   </p>
   
