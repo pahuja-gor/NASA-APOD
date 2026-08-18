@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2608/GoldCorona_Santos_1751.jpg)
+  ![](https://apod.nasa.gov/apod/image/2608/Perseids_karuk_3000.jpg)
   
   <p align = "center">
-    <b>A Golden Corona Eclipse</b>
+    <b>Perseids from Perseus</b>
   </p>
   
