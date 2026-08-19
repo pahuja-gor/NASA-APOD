@@ -11,9 +11,7 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2608/Perseids_karuk_3000.jpg)
-  
   <p align = "center">
-    <b>Perseids from Perseus</b>
+    <b>NO IMAGE FOR TODAY :)</b>
   </p>
   
