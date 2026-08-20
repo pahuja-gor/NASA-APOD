@@ -11,7 +11,9 @@
   
   <br>
   
+  ![](https://apod.nasa.gov/apod/image/2608/IMG_5201_sgarbossa.jpeg)
+  
   <p align = "center">
-    <b>NO IMAGE FOR TODAY :)</b>
+    <b>The Elephant's Trunk in Cepheus</b>
   </p>
   
