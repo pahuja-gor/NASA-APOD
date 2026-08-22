@@ -11,7 +11,9 @@
   
   <br>
   
+  ![](https://apod.nasa.gov/apod/image/2608/allsky_CEMeNt_Aug12-13final_pretty_8bit.jpg)
+  
   <p align = "center">
-    <b>NO IMAGE FOR TODAY :)</b>
+    <b>Mostly Perseids</b>
   </p>
   
