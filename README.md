@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2608/Comet220P_SA_4104.jpg)
+  ![](https://apod.nasa.gov/apod/image/2608/EarthShadow_Martin_4000.jpg)
   
   <p align = "center">
-    <b>Comet 220P in Outburst</b>
+    <b>Earth's Shadow Visualized with Lunar Eclipses</b>
   </p>
   
