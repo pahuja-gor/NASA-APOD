@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2608/EarthShadow_Martin_4000.jpg)
+  ![](https://apod.nasa.gov/apod/image/2608/lions_head_nebula.jpg)
   
   <p align = "center">
-    <b>Earth's Shadow Visualized with Lunar Eclipses</b>
+    <b>JWST Images The Lion's Head Nebula</b>
   </p>
   
