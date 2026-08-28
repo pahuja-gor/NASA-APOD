@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2608/Aurora_over_Fall.jpg)
+  ![](https://apod.nasa.gov/apod/image/2608/TheSkyTurnsAboveParanal.jpg)
   
   <p align = "center">
-    <b>Colorful Aurora over Icelandic Waterfall</b>
+    <b>The Sky Turns Above Paranal</b>
   </p>
   
