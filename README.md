@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2608/2026-08_12and28-EclipsePair.jpg)
+  ![](https://apod.nasa.gov/apod/image/2608/m74_hst_1280.jpg)
   
   <p align = "center">
-    <b>Eclipse Pair</b>
+    <b>M74: A Grand Design Spiral</b>
   </p>
   
