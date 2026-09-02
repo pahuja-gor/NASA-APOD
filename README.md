@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg)
+  ![](https://apod.nasa.gov/apod/image/2609/colors_of_eclipse.jpg)
   
   <p align = "center">
-    <b>A Plane Lunar Eclipse</b>
+    <b>Solar Eclipses and Culture</b>
   </p>
   
