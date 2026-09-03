@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2609/colors_of_eclipse.jpg)
+  ![](https://apod.nasa.gov/apod/image/2609/eclipse_stork.jpg)
   
   <p align = "center">
-    <b>Solar Eclipses and Culture</b>
+    <b>The Eclipse and the Stork</b>
   </p>
   
