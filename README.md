@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2609/eclipse_stork.jpg)
+  ![](https://apod.nasa.gov/apod/image/2609/noirlab2621a.jpg)
   
   <p align = "center">
-    <b>The Eclipse and the Stork</b>
+    <b>Nā ʻUhane Māhoe Huki Pū i ke Ola</b>
   </p>
   
