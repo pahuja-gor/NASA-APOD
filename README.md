@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2609/noirlab2621a.jpg)
+  ![](https://apod.nasa.gov/apod/image/2609/2026Eclipse_WB57GoPro_Totality_H264_Abridged.jpg)
   
   <p align = "center">
-    <b>Nā ʻUhane Māhoe Huki Pū i ke Ola</b>
+    <b>Chasing the Moon's Shadow</b>
   </p>
   
