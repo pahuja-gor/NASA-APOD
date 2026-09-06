@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2609/2026Eclipse_WB57GoPro_Totality_H264_Abridged.jpg)
+  ![](https://apod.nasa.gov/apod/image/2609/PlutoEnhancedHiRes_NewHorizons_5000.jpg)
   
   <p align = "center">
-    <b>Chasing the Moon's Shadow</b>
+    <b>Pluto in Enhanced Color</b>
   </p>
   
