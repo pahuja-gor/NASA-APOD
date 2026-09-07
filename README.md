@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2609/PlutoEnhancedHiRes_NewHorizons_5000.jpg)
+  ![](https://apod.nasa.gov/apod/image/2609/Pelican_Killion_4800.jpg)
   
   <p align = "center">
-    <b>Pluto in Enhanced Color</b>
+    <b>The Pelican Nebula in Gas, Dust, and Stars</b>
   </p>
   
