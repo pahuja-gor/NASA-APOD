@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2609/Pelican_Killion_4800.jpg)
+  ![](https://apod.nasa.gov/apod/image/2609/SaturnDecagon_Hubble_960.jpg)
   
   <p align = "center">
-    <b>The Pelican Nebula in Gas, Dust, and Stars</b>
+    <b>Hubble: Decagon Around Saturn's South Pole</b>
   </p>
   
