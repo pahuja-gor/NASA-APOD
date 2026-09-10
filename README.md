@@ -11,7 +11,9 @@
   
   <br>
   
+  ![](https://apod.nasa.gov/apod/image/2609/LDN1295_giraffe.jpg)
+  
   <p align = "center">
-    <b>NO IMAGE FOR TODAY :)</b>
+    <b>LDN 1295: The Giraffe Nebula</b>
   </p>
   
