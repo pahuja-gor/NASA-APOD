@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2609/LDN1295_giraffe.jpg)
+  ![](https://apod.nasa.gov/apod/image/2609/AS11-40-5872HR.jpg)
   
   <p align = "center">
-    <b>LDN 1295: The Giraffe Nebula</b>
+    <b>Apollo 11: Catching Some Sun</b>
   </p>
   
