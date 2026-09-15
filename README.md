@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2609/ElementOrigins2_svs_6000.jpg)
+  ![](https://apod.nasa.gov/apod/image/2609/MoonVenus_Mariat_1410.jpg)
   
   <p align = "center">
-    <b>Where Your Elements Came From</b>
+    <b>A Daytime Eclipse: Moon Occults Venus</b>
   </p>
   
