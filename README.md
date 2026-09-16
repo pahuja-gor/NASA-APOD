@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2609/MoonVenus_Mariat_1410.jpg)
+  ![](https://apod.nasa.gov/apod/image/2609/M64_Webb.jpg)
   
   <p align = "center">
-    <b>A Daytime Eclipse: Moon Occults Venus</b>
+    <b>Webb's View of M64</b>
   </p>
   
