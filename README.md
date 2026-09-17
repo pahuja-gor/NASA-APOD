@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2609/M64_Webb.jpg)
+  ![](https://apod.nasa.gov/apod/image/2609/JWST_Treasure_Chest.jpg)
   
   <p align = "center">
-    <b>Webb's View of M64</b>
+    <b>A Treasure Chest in the Carina Nebula</b>
   </p>
   
