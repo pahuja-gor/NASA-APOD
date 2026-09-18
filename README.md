@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2609/JWST_Treasure_Chest.jpg)
+  ![](https://apod.nasa.gov/apod/image/2609/m33m14_rasa3NM.jpg)
   
   <p align = "center">
-    <b>A Treasure Chest in the Carina Nebula</b>
+    <b>Messier 33: The Triangulum Galaxy</b>
   </p>
   
