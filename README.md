@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2609/m33m14_rasa3NM.jpg)
+  ![](https://apod.nasa.gov/apod/image/2609/2026-09-09ZodiacalLightHSP.jpg)
   
   <p align = "center">
-    <b>Messier 33: The Triangulum Galaxy</b>
+    <b>A Zodiacal Night</b>
   </p>
   
