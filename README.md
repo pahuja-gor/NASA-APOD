@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2609/2026-09-09ZodiacalLightHSP.jpg)
+  ![](https://apod.nasa.gov/apod/image/2609/CallanishAnalemma_Petricca_1280.jpg)
   
   <p align = "center">
-    <b>A Zodiacal Night</b>
+    <b>Analemma over the Callanish Stones</b>
   </p>
   
