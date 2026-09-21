@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2609/CallanishAnalemma_Petricca_1280.jpg)
+  ![](https://apod.nasa.gov/apod/image/2609/Cocoon_Czerski_3000.jpg)
   
   <p align = "center">
-    <b>Analemma over the Callanish Stones</b>
+    <b>Cocoon Nebula Wide Field</b>
   </p>
   
