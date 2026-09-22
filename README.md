@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2609/Cocoon_Czerski_3000.jpg)
+  ![](https://apod.nasa.gov/apod/image/2609/PlaneIssSpots_Horalek_1500.jpg)
   
   <p align = "center">
-    <b>Cocoon Nebula Wide Field</b>
+    <b>Chance Triple Alignment: Plane, Space Station, Sun</b>
   </p>
   
