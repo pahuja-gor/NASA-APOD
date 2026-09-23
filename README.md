@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2609/PlaneIssSpots_Horalek_1500.jpg)
+  ![](https://apod.nasa.gov/apod/image/2609/mcgetchin_after.jpg)
   
   <p align = "center">
-    <b>Chance Triple Alignment: Plane, Space Station, Sun</b>
+    <b>A New Lunar Crater: McGetchin</b>
   </p>
   
