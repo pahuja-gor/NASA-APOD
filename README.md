@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2609/mcgetchin_after.jpg)
+  ![](https://apod.nasa.gov/apod/image/2609/5SNR_Auriga_2000.jpg)
   
   <p align = "center">
-    <b>A New Lunar Crater: McGetchin</b>
+    <b>The Ghosts of Five Supernovas</b>
   </p>
   
