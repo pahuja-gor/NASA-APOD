@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2609/5SNR_Auriga_2000.jpg)
+  ![](https://apod.nasa.gov/apod/image/2609/NGC5139CadenasParra.jpg)
   
   <p align = "center">
-    <b>The Ghosts of Five Supernovas</b>
+    <b>Globular Cluster Omega Centauri</b>
   </p>
   
