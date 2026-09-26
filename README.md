@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2609/NGC5139CadenasParra.jpg)
+  ![](https://apod.nasa.gov/apod/image/2609/MilkyWayMeteorLSTJeffDai.jpg)
   
   <p align = "center">
-    <b>Globular Cluster Omega Centauri</b>
+    <b>Mirrored Meteor and Milky Way</b>
   </p>
   
