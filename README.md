@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2609/MilkyWayMeteorLSTJeffDai.jpg)
+  ![](https://apod.nasa.gov/apod/image/2609/M31Before_Scherer_4298.jpg)
   
   <p align = "center">
-    <b>Mirrored Meteor and Milky Way</b>
+    <b>Andromeda before Photoshop</b>
   </p>
   
