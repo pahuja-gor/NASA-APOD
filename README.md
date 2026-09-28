@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2609/M31Before_Scherer_4298.jpg)
+  ![](https://apod.nasa.gov/apod/image/2609/CosmicLatte_jhu_960.jpg)
   
   <p align = "center">
-    <b>Andromeda before Photoshop</b>
+    <b>Cosmic Latte: The Average Color of the Universe</b>
   </p>
   
