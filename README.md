@@ -11,9 +11,9 @@
   
   <br>
   
-  ![](https://apod.nasa.gov/apod/image/2609/CosmicLatte_jhu_960.jpg)
+  ![](https://apod.nasa.gov/apod/image/2609/Shrimp_Pawel_2048.jpg)
   
   <p align = "center">
-    <b>Cosmic Latte: The Average Color of the Universe</b>
+    <b>Sh2-188: The Shrimp Nebula</b>
   </p>
   
